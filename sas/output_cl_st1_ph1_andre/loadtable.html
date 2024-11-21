@@ -1,0 +1,3412 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="Generator" content="SAS Software Version 9.4, see www.sas.com">
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<title>SAS Output</title>
+<style type="text/css">
+<!--
+.accessiblecaption
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.activelink
+{
+  color: #800080;
+}
+.aftercaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  padding-top: 4pt;
+}
+.batch
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: 'SAS Monospace', 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  padding: 7px;
+}
+.beforecaption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.body
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.bodydate
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: right;
+  vertical-align: top;
+  width: 100%;
+}
+.bycontentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.byline
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.bylinecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.caption
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.cell
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.container
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.contentfolder
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.contentproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contentprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.contents
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.contentsdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.contenttitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.continued
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  width: 100%;
+}
+.data
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasis
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.dataemphasisfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.dataempty
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datafixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.datastrong
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.datastrongfixed
+{
+  background-color: #FFFFFF;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.date
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.document
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+a:link {
+color:#0000FF
+}
+a:visited {
+color:#800080
+}
+a:active {
+color:#800080
+}
+.errorbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.errorcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.errorcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.extendedpage
+{
+  background-color: #FAFBFE;
+  border: 1pt solid #000000;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+.fatalbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.fatalcontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.fatalcontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.folderaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.footer
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footeremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footeremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.footerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.footerstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.footerstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.frame
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.graph
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.header
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headeremphasis
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headeremphasisfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.headerempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.headersandfooters
+{
+  background-color: #EDF2F9;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrong
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.headerstrongfixed
+{
+  background-color: #D8DBD3;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #000000;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.heading1
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading2
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading3
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading4
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading5
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.heading6
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.index
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.indexaction
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.indexprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.indextitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.layoutcontainer
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.layoutregion
+{
+  border: 0px solid #000000;
+  border-spacing: 30px;
+}
+.linecontent
+{
+  background-color: #FAFBFE;
+  border-bottom-width: 1px;
+  border-color: #C1C1C1;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.link
+{
+  color: #0000FF;
+}
+.list
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.list10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.list3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.list9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: disc;
+}
+.listitem10
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem2
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: circle;
+}
+.listitem3
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem4
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem5
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem6
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem7
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem8
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.listitem9
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: square;
+}
+.note
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notebanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.notecontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.notecontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.output
+{
+  background-color: #FAFBFE;
+  border: 1px solid #C1C1C1;
+  border-collapse: separate;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.pageno
+{
+  background-color: #FAFBFE;
+  border-spacing: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+  text-align: right;
+  vertical-align: top;
+}
+.pages
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: decimal;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+.pagesdate
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.pagesitem
+{
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  list-style-type: none;
+  margin-left: 6pt;
+}
+.pagesproclabel
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagesprocname
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.pagestitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: bold;
+}
+.paragraph
+{
+  background-color: #FAFBFE;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.parskip
+{
+  border: 0px solid #000000;
+  border-spacing: 0px;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.prepage
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  text-align: left;
+}
+.proctitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.proctitlefixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooter
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooteremphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooteremphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowfooterempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowfooterstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowfooterstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheader
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderemphasis
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderemphasisfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: italic;
+  font-weight: normal;
+}
+.rowheaderempty
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.rowheaderstrong
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.rowheaderstrongfixed
+{
+  background-color: #EDF2F9;
+  border-bottom-width: 1px;
+  border-color: #B0B7BB;
+  border-left-width: 0px;
+  border-right-width: 1px;
+  border-style: solid;
+  border-top-width: 0px;
+  color: #112277;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemfooter
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemfooter9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.systemtitle
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle10
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle2
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle3
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle4
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle5
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle6
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle7
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle8
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systemtitle9
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: small;
+  font-style: normal;
+  font-weight: bold;
+}
+.systitleandfootercontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.table
+{
+  border-bottom-width: 0px;
+  border-collapse: collapse;
+  border-color: #C1C1C1;
+  border-left-width: 1px;
+  border-right-width: 0px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-top-width: 1px;
+}
+.top_stacked_value
+{
+  padding-bottom: 1px;
+  border: 0;
+}
+.middle_stacked_value
+{
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border: 0;
+}
+.bottom_stacked_value
+{
+  padding-top: 1px;
+  border: 0;
+}
+.titleandnotecontainer
+{
+  background-color: #FAFBFE;
+  border: 0px solid #000000;
+  border-spacing: 1px;
+  color: #000000;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+  width: 100%;
+}
+.titlesandfooters
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.usertext
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.visitedlink
+{
+  color: #800080;
+}
+.warnbanner
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: bold;
+}
+.warncontent
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: Arial, 'Albany AMT', Helvetica, Helv;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.warncontentfixed
+{
+  background-color: #FAFBFE;
+  color: #112277;
+  font-family: 'Courier New', Courier;
+  font-size: x-small;
+  font-style: normal;
+  font-weight: normal;
+}
+.l {text-align: left }
+.c {text-align: center }
+.r {text-align: right }
+.d {text-align: right }
+.j {text-align: justify }
+.t {vertical-align: top }
+.m {vertical-align: middle }
+.b {vertical-align: bottom }
+TD, TH {vertical-align: top }
+.stacked_cell{padding: 0 }
+-->
+</style>
+<script language="javascript" type="text/javascript">
+<!-- 
+function startup(){
+
+}
+function shutdown(){
+
+}
+
+//-->
+</script>
+
+</head>
+<body onload="startup()" onunload="shutdown()" class="body">
+
+<script language="javascript" type="text/javascript">
+<!-- 
+var _info = navigator.userAgent
+var _ie = (_info.indexOf("MSIE") > 0
+          && _info.indexOf("Win") > 0
+          && _info.indexOf("Windows 3.1") < 0);
+var _ie64 = _info.indexOf("x64") > 0
+
+//-->
+</script>
+
+<div class="branch">
+<a name="IDX"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 1 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">fazer</td>
+<td class="r data">0.83528</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">querer</td>
+<td class="r data">0.83441</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">democracia</td>
+<td class="r data">0.81914</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">direito</td>
+<td class="r data">0.81255</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">justiça</td>
+<td class="r data">0.75861</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cidadão</td>
+<td class="r data">0.74442</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">prender</td>
+<td class="r data">0.74119</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">opinião</td>
+<td class="r data">0.73875</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">jornalista</td>
+<td class="r data">0.73812</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">expressão</td>
+<td class="r data">0.71988</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">(</td>
+<td class="l data">respeito</td>
+<td class="r data">0.70220</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">falar</td>
+<td class="r data">0.70131</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tirar</td>
+<td class="r data">0.70054</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ver</td>
+<td class="r data">0.69726</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">direita</td>
+<td class="r data">0.69055</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">constituição</td>
+<td class="r data">0.68992</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">defender</td>
+<td class="r data">0.68128</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ir</td>
+<td class="r data">0.67643</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">livre</td>
+<td class="r data">0.67532</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">chamar</td>
+<td class="r data">0.66721</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">crime</td>
+<td class="r data">0.65958</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">saber</td>
+<td class="r data">0.65632</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vir</td>
+<td class="r data">0.63740</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bandido</td>
+<td class="r data">0.62066</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">favor</td>
+<td class="r data">0.61554</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">calar</td>
+<td class="r data">0.61327</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imprensa</td>
+<td class="r data">0.57203</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">liberdade</td>
+<td class="r data">0.57054</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">existir</td>
+<td class="r data">0.56967</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">censurar</td>
+<td class="r data">0.56623</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">presidente</td>
+<td class="r data">0.56543</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">32</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ditadura</td>
+<td class="r data">0.55041</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">33</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">voto</td>
+<td class="r data">0.54890</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">34</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ter</td>
+<td class="r data">0.54484</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">35</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">stfvergonhamundial_h</td>
+<td class="r data">0.54012</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">36</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cara</td>
+<td class="r data">0.53389</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">37</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">stfrompeuademocracia_h</td>
+<td class="r data">0.52673</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">38</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">togado</td>
+<td class="r data">0.51328</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">39</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ficar</td>
+<td class="r data">0.50936</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">40</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">político</td>
+<td class="r data">0.50648</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">41</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bom</td>
+<td class="r data">0.48157</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">42</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">censura</td>
+<td class="r data">0.47992</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">43</th>
+<td class="l data">(</td>
+<td class="l data">cometer</td>
+<td class="r data">0.47743</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">44</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vergonha</td>
+<td class="r data">0.47145</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">45</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rede</td>
+<td class="r data">0.45981</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">46</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">social</td>
+<td class="r data">0.45813</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">47</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">criminoso</td>
+<td class="r data">0.45317</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">48</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pensamento</td>
+<td class="r data">0.44491</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">49</th>
+<td class="l data">(</td>
+<td class="l data">poder</td>
+<td class="r data">0.42554</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">50</th>
+<td class="l data">(</td>
+<td class="l data">precisar</td>
+<td class="r data">0.42253</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">51</th>
+<td class="l data">(</td>
+<td class="l data">manifestação</td>
+<td class="r data">0.41169</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">52</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">corte</td>
+<td class="r data">0.40492</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">53</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">lado</td>
+<td class="r data">0.39682</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">54</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">absurdo</td>
+<td class="r data">0.39665</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">55</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">viver</td>
+<td class="r data">0.39108</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">56</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">stforganizacaocriminosa_h</td>
+<td class="r data">0.39045</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">57</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">governo</td>
+<td class="r data">0.38248</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">58</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ditador</td>
+<td class="r data">0.38155</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">59</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ato</td>
+<td class="r data">0.36573</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">60</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">supremo</td>
+<td class="r data">0.34011</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">61</th>
+<td class="l data">(</td>
+<td class="l data">dia</td>
+<td class="r data">0.33431</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">62</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">usar</td>
+<td class="r data">0.32710</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">63</th>
+<td class="l data">(</td>
+<td class="l data">stf</td>
+<td class="r data">0.32624</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">64</th>
+<td class="l data">(</td>
+<td class="l data">luta</td>
+<td class="r data">0.31425</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">65</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">impeachment</td>
+<td class="r data">0.31276</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">66</th>
+<td class="l data">(</td>
+<td class="l data">parlamentar</td>
+<td class="r data">0.30623</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX1"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 1 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor1</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">rajar</td>
+<td class="r data" nowrap>-0.59900</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">patria_h</td>
+<td class="r data" nowrap>-0.58520</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">deus_h</td>
+<td class="r data" nowrap>-0.57472</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">brazil_h</td>
+<td class="r data" nowrap>-0.53672</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sosffaa_h</td>
+<td class="r data" nowrap>-0.48563</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">compartilhem</td>
+<td class="r data" nowrap>-0.42468</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">(</td>
+<td class="l data">frente</td>
+<td class="r data" nowrap>-0.41848</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">todo</td>
+<td class="r data" nowrap>-0.40790</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">recado</td>
+<td class="r data" nowrap>-0.40573</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sosforcasarmadas_h</td>
+<td class="r data" nowrap>-0.40468</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">police_car_light_e</td>
+<td class="r data" nowrap>-0.39638</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">censuranao_h</td>
+<td class="r data" nowrap>-0.39467</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">erro</td>
+<td class="r data" nowrap>-0.37724</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">produtor</td>
+<td class="r data" nowrap>-0.37491</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">raiar</td>
+<td class="r data" nowrap>-0.36953</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">horizonte</td>
+<td class="r data" nowrap>-0.36953</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">liberdadenaoseganhasetoma_h</td>
+<td class="r data" nowrap>-0.34773</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">segredo</td>
+<td class="r data" nowrap>-0.34723</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">liberdadeparaoswaldoeustaquio_h</td>
+<td class="r data" nowrap>-0.33721</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">paulista</td>
+<td class="r data" nowrap>-0.33304</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">globolixo_h</td>
+<td class="r data" nowrap>-0.33231</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">trovão</td>
+<td class="r data" nowrap>-0.32714</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">homem</td>
+<td class="r data" nowrap>-0.32101</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bolsonaroorgulhodobrasil_h</td>
+<td class="r data" nowrap>-0.31874</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">carreata</td>
+<td class="r data" nowrap>-0.31494</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX2"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 2 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor2</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">letra</td>
+<td class="r data">1.28344</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">digno</td>
+<td class="r data">1.28344</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">grafia</td>
+<td class="r data">1.28344</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">concluir</td>
+<td class="r data">1.28344</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">minúsculo</td>
+<td class="r data">1.28344</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">stf</td>
+<td class="r data">1.25475</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">livro</td>
+<td class="r data">1.23165</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">bastar</td>
+<td class="r data">1.21968</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">aberração</td>
+<td class="r data">1.21173</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">integrante</td>
+<td class="r data">1.16901</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">respeito</td>
+<td class="r data">1.13790</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ler</td>
+<td class="r data">1.12861</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cometer</td>
+<td class="r data">1.09865</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">grande</td>
+<td class="r data">1.06464</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">(</td>
+<td class="l data">expressão</td>
+<td class="r data">0.55216</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">(</td>
+<td class="l data">liberdade</td>
+<td class="r data">0.54193</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX3"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 2 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor2</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">chegar</td>
+<td class="r data" nowrap>-0.42591</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">(</td>
+<td class="l data">povo</td>
+<td class="r data" nowrap>-0.40352</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">(</td>
+<td class="l data">ter</td>
+<td class="r data" nowrap>-0.35248</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">unir</td>
+<td class="r data" nowrap>-0.31583</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX4"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 3 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">yellow_heart_e</td>
+<td class="r data">1.18674</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">green_heart_e</td>
+<td class="r data">1.17124</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">blue_heart_e</td>
+<td class="r data">1.10502</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">white_heart_e</td>
+<td class="r data">1.10502</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">flag_brazil_e</td>
+<td class="r data">0.97295</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">raising_hands_e</td>
+<td class="r data">0.85305</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">purple_heart_e</td>
+<td class="r data">0.80651</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">luta</td>
+<td class="r data">0.80514</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">handshake_e</td>
+<td class="r data">0.79763</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sparkles_e</td>
+<td class="r data">0.78048</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">sos_button_e</td>
+<td class="r data">0.75621</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">folded_hands_medium</td>
+<td class="r data">0.75032</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">abençoar</td>
+<td class="r data">0.72934</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">(</td>
+<td class="l data">justiça</td>
+<td class="r data">0.72879</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">continuar</td>
+<td class="r data">0.71977</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">light_skin_tone_e</td>
+<td class="r data">0.60570</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">(</td>
+<td class="l data">stfrompeuademocracia_h</td>
+<td class="r data">0.52445</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">lutar</td>
+<td class="r data">0.49230</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dia7vaisergigante_h</td>
+<td class="r data">0.49169</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">(</td>
+<td class="l data">bom</td>
+<td class="r data">0.47981</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">(</td>
+<td class="l data">ver</td>
+<td class="r data">0.45121</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">(</td>
+<td class="l data">direita</td>
+<td class="r data">0.43917</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">supremoeopovo_h</td>
+<td class="r data">0.43415</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">heart_suit_e</td>
+<td class="r data">0.40190</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">(</td>
+<td class="l data">compartilhem</td>
+<td class="r data">0.31306</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX5"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 3 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor3</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">decisão</td>
+<td class="r data" nowrap>-0.50705</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">(</td>
+<td class="l data">supremoéopovo_h</td>
+<td class="r data" nowrap>-0.50080</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">(</td>
+<td class="l data">tirano</td>
+<td class="r data" nowrap>-0.40117</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">autoritarismo</td>
+<td class="r data" nowrap>-0.37605</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">(</td>
+<td class="l data">censura</td>
+<td class="r data" nowrap>-0.37169</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">impor</td>
+<td class="r data" nowrap>-0.36977</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">legislar</td>
+<td class="r data" nowrap>-0.36726</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pena</td>
+<td class="r data" nowrap>-0.35599</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">semideus</td>
+<td class="r data" nowrap>-0.35181</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">(</td>
+<td class="l data">ditadura</td>
+<td class="r data" nowrap>-0.32717</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tomar</td>
+<td class="r data" nowrap>-0.31486</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">código</td>
+<td class="r data" nowrap>-0.31207</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">marco</td>
+<td class="r data" nowrap>-0.30866</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX6"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">LOADINGS TABLE</td>
+</tr>
+<tr>
+<td class="c systemtitle2">Factor 4 pos</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor4</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">povo</td>
+<td class="r data">0.83504</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">supremoéopovo_h</td>
+<td class="r data">0.80399</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">(</td>
+<td class="l data">flag_brazil_e</td>
+<td class="r data">0.80010</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">(</td>
+<td class="l data">grande</td>
+<td class="r data">0.72317</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">liberdade_h</td>
+<td class="r data">0.70316</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">hashtag</td>
+<td class="r data">0.69306</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">dia</td>
+<td class="r data">0.63978</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">precisar</td>
+<td class="r data">0.62453</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">manifestação</td>
+<td class="r data">0.58938</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">(</td>
+<td class="l data">constituição</td>
+<td class="r data">0.56214</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">poder</td>
+<td class="r data">0.55042</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">(</td>
+<td class="l data">vir</td>
+<td class="r data">0.53126</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">emanar</td>
+<td class="r data">0.51537</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">frente</td>
+<td class="r data">0.51245</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">setembro</td>
+<td class="r data">0.50975</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tirano</td>
+<td class="r data">0.46663</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">(</td>
+<td class="l data">sosffaa_h</td>
+<td class="r data">0.44410</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">(</td>
+<td class="l data">deus_h</td>
+<td class="r data">0.44066</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">(</td>
+<td class="l data">pensamento</td>
+<td class="r data">0.39060</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">pátria</td>
+<td class="r data">0.38639</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">(</td>
+<td class="l data">rajar</td>
+<td class="r data">0.37912</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">(</td>
+<td class="l data">lutar</td>
+<td class="r data">0.37678</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">gigante</td>
+<td class="r data">0.36580</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">(</td>
+<td class="l data">patria_h</td>
+<td class="r data">0.35493</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">(</td>
+<td class="l data">direito</td>
+<td class="r data">0.35475</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">(</td>
+<td class="l data">brazil_h</td>
+<td class="r data">0.35192</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">vencer</td>
+<td class="r data">0.34375</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">(</td>
+<td class="l data">presidente</td>
+<td class="r data">0.34374</td>
+<td class="l data">)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+<div class="branch">
+<p style="page-break-after: always;"><br/></p><hr size="3"/>
+<a name="IDX7"></a>
+<table class="systitleandfootercontainer" width="100%" cellspacing="1" cellpadding="1" rules="none" frame="void" border="0" summary="Page Layout">
+<tr>
+<td class="c systemtitle">Factor 4 neg</td>
+</tr>
+</table><br>
+<div>
+<div align="center">
+<table class="table" cellspacing="0" cellpadding="5" rules="all" frame="box" bordercolor="#C1C1C1" summary="Procedure Print: Data Set WORK.TEMP4">
+<colgroup>
+<col>
+</colgroup>
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<thead>
+<tr>
+<th class="r header" scope="col">Obs</th>
+<th class="l header" scope="col">l</th>
+<th class="l header" scope="col">_NAME_</th>
+<th class="r header" scope="col">Factor4</th>
+<th class="l header" scope="col">r</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th class="r rowheader" scope="row">1</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imbecil</td>
+<td class="r data" nowrap>-0.58638</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">2</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">preso</td>
+<td class="r data" nowrap>-0.55759</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">3</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">genocida</td>
+<td class="r data" nowrap>-0.54413</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">4</th>
+<td class="l data">(</td>
+<td class="l data">prender</td>
+<td class="r data" nowrap>-0.54228</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">5</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">parlamentar</td>
+<td class="r data" nowrap>-0.53564</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">6</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ativismo</td>
+<td class="r data" nowrap>-0.50519</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">7</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imaginar</td>
+<td class="r data" nowrap>-0.48025</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">8</th>
+<td class="l data">(</td>
+<td class="l data">político</td>
+<td class="r data" nowrap>-0.47581</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">9</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">apoiador</td>
+<td class="r data" nowrap>-0.47425</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">10</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">renunciar</td>
+<td class="r data" nowrap>-0.44200</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">11</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">juiz</td>
+<td class="r data" nowrap>-0.43019</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">12</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">tbm</td>
+<td class="r data" nowrap>-0.42119</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">13</th>
+<td class="l data">(</td>
+<td class="l data">chamar</td>
+<td class="r data" nowrap>-0.42057</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">14</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">imunidade</td>
+<td class="r data" nowrap>-0.41122</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">15</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">ex</td>
+<td class="r data" nowrap>-0.40918</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">16</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">posição</td>
+<td class="r data" nowrap>-0.37174</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">17</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">cuidado</td>
+<td class="r data" nowrap>-0.37153</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">18</th>
+<td class="l data">(</td>
+<td class="l data">opinião</td>
+<td class="r data" nowrap>-0.36727</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">19</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">corda</td>
+<td class="r data" nowrap>-0.36226</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">20</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">presidiário</td>
+<td class="r data" nowrap>-0.35821</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">21</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">empresário</td>
+<td class="r data" nowrap>-0.34894</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">22</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">petista</td>
+<td class="r data" nowrap>-0.34596</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">23</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">romper</td>
+<td class="r data" nowrap>-0.34203</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">24</th>
+<td class="l data">(</td>
+<td class="l data">absurdo</td>
+<td class="r data" nowrap>-0.33788</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">25</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">judicial</td>
+<td class="r data" nowrap>-0.33772</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">26</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">comunicação</td>
+<td class="r data" nowrap>-0.33656</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">27</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">internet</td>
+<td class="r data" nowrap>-0.32210</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">28</th>
+<td class="l data">(</td>
+<td class="l data">existir</td>
+<td class="r data" nowrap>-0.32176</td>
+<td class="l data">)</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">29</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">terminar</td>
+<td class="r data" nowrap>-0.31553</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">30</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">legal</td>
+<td class="r data" nowrap>-0.31056</td>
+<td class="l data">&nbsp;</td>
+</tr>
+<tr>
+<th class="r rowheader" scope="row">31</th>
+<td class="l data">&nbsp;</td>
+<td class="l data">meio</td>
+<td class="r data" nowrap>-0.30073</td>
+<td class="l data">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<br>
+</div>
+</body>
+</html>
