@@ -1,0 +1,17 @@
+file = t001165
+date = 2022-03-19
+user = FabianoAzeved1
+conversation = 1454897359079542788
+URL = https://twitter.com/FabianoAzeved1/status/1505068838433480707
+
+word count = 24
+words loading = 1
+factor score = -1
+
+O último bastião da liberdade de expressão foi **tomado** pela tropa 
+inimiga. O Telegram se rendeu ao HASHTAG #stfrompeuademocracia_h e nós estamos 
+sitiados. url 
+
+Lemmas in this text that loaded on the factor:
+
+tomar 

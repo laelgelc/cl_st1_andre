@@ -1,0 +1,22 @@
+file = t000025
+date = 2022-11-15
+user = Aninha_Falcao
+conversation = 140850803
+URL = https://twitter.com/Aninha_Falcao/status/1592657620455882758
+
+word count = 13
+words loading = 3
+factor score = 3
+
+oncoming_fist_medium-light_skin_tone_e **flag_brazil_e** 
+folded_hands_medium-light_skin_tone_e HASHTAG #brazilwassotolen_h HASHTAG 
+#supremoéopovo_h HASHTAG #naosomosmanes_h HASHTAG #liberdade_h HASHTAG 
+#censuranao_h HASHTAG #foracorruptos_h HASHTAG #fraudenasurnas_h HASHTAG 
+#fraudeeleitoral_h HASHTAG #desonra_h HASHTAG #sosffaa_h HASHTAG 
+#foraquadrilha_h url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+folded_hands_medium 
+light_skin_tone_e 

@@ -1,0 +1,18 @@
+file = t000169
+date = 2021-09-07
+user = Drie_Franco
+conversation = 1114157953890828288
+URL = https://twitter.com/Drie_Franco/status/1435346963361406980
+
+word count = 23
+words loading = 2
+factor score = -2
+
+Chapadão do Céu-GO, 7 de Setembro 2021 : comerciantes, **produtores** rurais 
+e população realizam **carreata** em prol do Brasil! HASHTAG #7desetembro_h 
+HASHTAG #supremoeopovo_h HASHTAG #liberdade_h HASHTAG #brasil_h url 
+
+Lemmas in this text that loaded on the factor:
+
+carreata 
+produtor 

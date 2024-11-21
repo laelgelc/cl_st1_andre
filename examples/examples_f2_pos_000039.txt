@@ -1,0 +1,19 @@
+file = t001575
+date = 2018-12-04
+user = FelipeUFO
+conversation = 54327728
+URL = https://twitter.com/FelipeUFO/status/1070086655900614657
+
+word count = 39
+words loading = 2
+factor score = 1
+
+Vivemos numa democracia, com total **liberdade** de expressão. Não estamos na 
+Coreia do Norte ou na Arabia Saudita ( sic ) . Qual foi o crime **cometido** 
+pelo advogado Cristiano Caiado de Acioli para que o senhor chamasse a policia? 
+? ? HASHTAG #stfvergonhadobrasil_h 
+
+Lemmas in this text that loaded on the factor:
+
+cometer 
+liberdade (secondary)

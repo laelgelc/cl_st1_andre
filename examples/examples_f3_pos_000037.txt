@@ -1,0 +1,21 @@
+file = t001226
+date = 2021-09-07
+user = 73_wagner
+conversation = 2610154908
+URL = https://twitter.com/73_wagner/status/1435382712500695044
+
+word count = 17
+words loading = 3
+factor score = 2
+
+**Boa** noite pra vc, que como eu, **LUTOU** E **LUTA** pela LIBERDADE! ! 
+HASHTAG #carecafdp_h HASHTAG #stfrompeuademocracia_h HASHTAG #liberdade_h 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** url 
+
+Lemmas in this text that loaded on the factor:
+
+bom (secondary)
+flag_brazil_e 
+lutar 

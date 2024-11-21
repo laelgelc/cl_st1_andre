@@ -1,0 +1,18 @@
+file = t000703
+date = 2022-11-21
+user = adil_bagnarelli
+conversation = 1582027089364099072
+URL = https://twitter.com/adil_bagnarelli/status/1594785835420946452
+
+word count = 23
+words loading = 1
+factor score = -1
+
+HASHTAG #ditaduraesquerdista_h Ué . . . Cade o Consorcio de Imprensa comunista 
+**petista** para falar em Democracia e Liberdade de Imprensa? ? ? 
+thinking_face_e HASHTAG #lixosesquerdistas_h HASHTAG #fraudenaseleições_h 
+HASHTAG #stforganizacaocriminosa_h HASHTAG #tseorganizacaocriminosa_h url 
+
+Lemmas in this text that loaded on the factor:
+
+petista 

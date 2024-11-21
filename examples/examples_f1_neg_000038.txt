@@ -1,0 +1,17 @@
+file = t000353
+date = 2020-05-30
+user = Milla22BR
+conversation = 1114610395644354566
+URL = https://twitter.com/Milla22BR/status/1266803611092254721
+
+word count = 29
+words loading = 1
+factor score = -1
+
+Só patriotas para limpar as sujeiras e consertar os estragos que a esquerda 
+deixa por onde passa! É a mesma coisa no mundo **todo** ! HASHTAG 
+#supremoéopovo_h HASHTAG #liberdade_h HASHTAG #freespeech_h url 
+
+Lemmas in this text that loaded on the factor:
+
+todo 

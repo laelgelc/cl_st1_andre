@@ -1,0 +1,18 @@
+file = t001680
+date = 2022-05-14
+user = JosDaSi22960290
+conversation = 1361492500586893313
+URL = https://twitter.com/JosDaSi22960290/status/1525592056487460865
+
+word count = 27
+words loading = 2
+factor score = -2
+
+Ao afirmar que a " **internet** deu voz aos **imbecis** " , Alexandre assegura 
+que a autodefinição ainda é liberdade de expressão. rsrs O HASHTAG 
+#stfvergonhamundial_h está carecendo de espelhos? 
+
+Lemmas in this text that loaded on the factor:
+
+imbecil 
+internet 

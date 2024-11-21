@@ -1,0 +1,18 @@
+file = t000180
+date = 2021-09-07
+user = eujulliene
+conversation = 1377458191450128386
+URL = https://twitter.com/eujulliene/status/1435289627317788673
+
+word count = 14
+words loading = 2
+factor score = -1
+
+Já **raiou** a liberdade no **horizonte** do Brasil! HASHTAG 
+#7desetpelaliberdade_h HASHTAG #liberdade_h HASHTAG #supremoeopovo_h HASHTAG 
+#dia7vaisergigantesco_h url 
+
+Lemmas in this text that loaded on the factor:
+
+horizonte 
+raiar 

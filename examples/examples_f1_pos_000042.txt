@@ -1,0 +1,27 @@
+file = t000849
+date = 2022-04-21
+user = jprodriguess84
+conversation = 1514535797759918082
+URL = https://twitter.com/jprodriguess84/status/1517169643110162437
+
+word count = 42
+words loading = 9
+factor score = 8
+
+Tem muito **parlamentar** achando **absurdo** a prisão de Daniel Silveira, 
+**quero** **ver** quantos dos que **falam** vão honrar o **voto** que 
+receberam pra **fazer** algo à **respeito** . NÃO VOTO EM QUEM TRAIU MEU 
+**VOTO** E MINHA **LIBERDADE** DE EXPRESSÃO! ! HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo 
+falar 
+fazer 
+liberdade 
+parlamentar (secondary)
+querer 
+respeito (secondary)
+ver 
+voto 

@@ -1,0 +1,18 @@
+file = t000615
+date = 2021-02-17
+user = thiagodecmaia
+conversation = 54552650
+URL = https://twitter.com/thiagodecmaia/status/1362143606245572609
+
+word count = 28
+words loading = 0
+factor score = -1
+
+É , pessoal! Absurda essa história do dep. federal @danielPMERJ que perdeu 
+sua imunidade parlamentar em mais uma decisão autoritária do HASHTAG 
+#cabeçadeovo_h. url HASHTAG #danielsilveirapreso_h HASHTAG 
+#liberdadedeexpressao_h HASHTAG #imunidadeparlamentar_h HASHTAG #crimedeodio_h 
+HASHTAG #inqueritodasfakenews_h 
+
+Lemmas in this text that loaded on the factor:
+

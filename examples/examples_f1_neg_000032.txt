@@ -1,0 +1,17 @@
+file = t000200
+date = 2021-09-07
+user = josiefreitas1
+conversation = 1057263017249763328
+URL = https://twitter.com/josiefreitas1/status/1435271279121158151
+
+word count = 9
+words loading = 1
+factor score = -1
+
+HASHTAG #globolixo_h " jornalismo " mentira HASHTAG #globonewslixo_h HASHTAG 
+#supremoéopovo_h HASHTAG #brasilacimadetudo_h HASHTAG #liberdade_h HASHTAG 
+#7desetembro_h 
+
+Lemmas in this text that loaded on the factor:
+
+globolixo_h 

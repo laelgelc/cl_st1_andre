@@ -1,0 +1,21 @@
+file = t001045
+date = 2022-11-05
+user = AldirValoes
+conversation = 1579549887447826434
+URL = https://twitter.com/AldirValoes/status/1588966716729872387
+
+word count = 48
+words loading = 3
+factor score = 2
+
+O HASHTAG #brasil_h está sob HASHTAG #censura_h. Numa HASHTAG #ditadura_h a 
+1° a morrer é a HASHTAG #liberdade_h de expressão / imprensa. E todos os 
+países que se livraram disso a chave do sucesso foi a união do **povo** . 
+Não foram periodos fáceis, mas desistir não é uma opção. Vamos **vencer** 
+**flag_brazil_e** HASHTAG #stfrompeuademocracia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e (secondary)
+povo 
+vencer 

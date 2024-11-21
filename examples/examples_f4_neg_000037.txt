@@ -1,0 +1,17 @@
+file = t000440
+date = 2020-05-28
+user = John773300
+conversation = 2389001748
+URL = https://twitter.com/John773300/status/1265799637706907648
+
+word count = 13
+words loading = 2
+factor score = -1
+
+HASHTAG #alexandredemoraesditador_h liberdade de expressão na **internet** e 
+de todo Brasileiro não podem **prender** -nos 
+
+Lemmas in this text that loaded on the factor:
+
+internet 
+prender (secondary)

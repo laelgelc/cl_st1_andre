@@ -1,0 +1,17 @@
+file = t001858
+date = 2022-11-03
+user = AmandaSPinto
+conversation = 76408714
+URL = https://twitter.com/AmandaSPinto/status/1588209538087489536
+
+word count = 13
+words loading = 1
+factor score = -1
+
+**Chegamos** ao nível mais crítico de LOUCURA! HASHTAG #liberdade_h HASHTAG 
+#censuranao_h HASHTAG #tsevergonhanacional_h HASHTAG #tseorganizacaocriminosa_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+chegar 

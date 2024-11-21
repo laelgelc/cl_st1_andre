@@ -1,0 +1,19 @@
+file = t001982
+date = 2021-08-17
+user = carneirosAL
+conversation = 126484873
+URL = https://twitter.com/carneirosAL/status/1427621292266688519
+
+word count = 43
+words loading = 1
+factor score = -1
+
+@MarcosRogerio Cara político, Vocês deveriam se **unir** para acabar com as 
+babáreis ações ditatoriais sobre a livre expressão que o HASHTAG 
+#stfvergonhanacional_h HASHTAG #tsevergonhanacional_h estão fazendo. . . Isso 
+é um ABSURDO. . . eles arrebentaram a corda a muito tempo e vocês estão 
+fazendo pouco caso disso. 
+
+Lemmas in this text that loaded on the factor:
+
+unir 

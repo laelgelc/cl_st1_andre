@@ -1,0 +1,22 @@
+file = t001272
+date = 2021-09-05
+user = juliomodotti1
+conversation = 2918279729
+URL = https://twitter.com/juliomodotti1/status/1434481596183240706
+
+word count = 27
+words loading = 6
+factor score = 8
+
+@jannafabrini **Tem** muito, como **calar** os opositores, como **prender** sem 
+o **direito** de defesa, **tirar** a **liberdade** de expressão e rasgar os 
+**direitos** de opinião. HASHTAG #stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+calar 
+direito 
+liberdade 
+prender 
+ter 
+tirar 

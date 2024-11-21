@@ -1,0 +1,19 @@
+file = t000536
+date = 2021-02-17
+user = OGlauce
+conversation = 2300176635
+URL = https://twitter.com/OGlauce/status/1362060978997837824
+
+word count = 37
+words loading = 1
+factor score = -1
+
+Até quando um país democrático, permitirá que um déspota a fronte assim a 
+liberdade de expressão de um **parlamentar** , daqui a pouco não poderemos 
+chamá -lo de cabeça de ovo ou defensor de pcc pouting_face_e unamused_face_e 
+HASHTAG #alexandredemoraesnacadeia_h HASHTAG #prisaodoalexandredemoraes_h 
+HASHTAG #impeachmentalexandredemoraes_h url 
+
+Lemmas in this text that loaded on the factor:
+
+parlamentar 

@@ -1,0 +1,16 @@
+file = t000304
+date = 2021-08-21
+user = Walkiri74219538
+conversation = 1128507307510378496
+URL = https://twitter.com/Walkiri74219538/status/1429168273506058242
+
+word count = 5
+words loading = 1
+factor score = -1
+
+HASHTAG #alexandredemoraisnacadeia_h HASHTAG #supremoéopovo_h HASHTAG 
+#liberdadenaoseganhasetoma_h url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdadenaoseganhasetoma_h 

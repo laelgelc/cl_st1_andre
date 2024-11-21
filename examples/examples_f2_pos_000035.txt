@@ -1,0 +1,20 @@
+file = t001727
+date = 2022-03-05
+user = belle_grillo
+conversation = 1084484666365825025
+URL = https://twitter.com/belle_grillo/status/1500074758976815113
+
+word count = 40
+words loading = 1
+factor score = 1
+
+@policiafederal Vemos claramente a @policiafederal atuando clapping_hands_e 
+clapping_hands_e, porém as coisas não andam como gostaríamos, dá pra 
+atribuir a classe dos Adv, Juristas, . . ! ? Escândalos não se resolvem pelo 
+**grande** poder dos Estados envolvidos? é TD um conluio contra População? 
+HASHTAG #liberdade_h purple_heart_e flag_brazil_e globe_showing_europe-africa_e 
+HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+grande 

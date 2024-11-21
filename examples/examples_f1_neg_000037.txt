@@ -1,0 +1,17 @@
+file = t000345
+date = 2020-06-19
+user = CeliamaraMara
+conversation = 2463720439
+URL = https://twitter.com/CeliamaraMara/status/1274032354839998469
+
+word count = 18
+words loading = 1
+factor score = -1
+
+@SenadoFederal FAKE NEWS! ! ! Que ridículo: não trabalham e ficam inventando 
+mentiras o tempo **todo** ? Canalhada! ! ! HASHTAG #liberdade_h HASHTAG 
+#supremoeopovo_h 
+
+Lemmas in this text that loaded on the factor:
+
+todo 

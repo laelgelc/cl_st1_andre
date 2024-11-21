@@ -1,0 +1,18 @@
+file = t001632
+date = 2022-10-23
+user = LuiSpiresBR
+conversation = 1584231641349775360
+URL = https://twitter.com/LuiSpiresBR/status/1584239076018122752
+
+word count = 31
+words loading = 1
+factor score = -1
+
+Alexandre De Moraes estão passando dos limites e **chegou** ao EXTREMO! ! Caso 
+aconteça algo com o HASHTAG #robertojefferson_h, STF SERÁ PENALIZADO PELO 
+SEUS ATOS ABSUDO PELA LIBERDADE DE EXPRESSÃO! ! HASHTAG #censuranuncamais_h 
+HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegar 

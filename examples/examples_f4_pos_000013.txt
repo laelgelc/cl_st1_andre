@@ -1,0 +1,21 @@
+file = t001510
+date = 2021-08-19
+user = JeaneCunhaChag2
+conversation = 795662562444636160
+URL = https://twitter.com/JeaneCunhaChag2/status/1428260872187699200
+
+word count = 42
+words loading = 3
+factor score = 3
+
+@rpsenador corre aqui que tem um recadinho pra você : Você não **pode** 
+esquecer dos seus patrões: o **POVO** ! Estamos te lembrando: O **PODER** 
+**EMANA** DO **POVO** ! Tem que ter harmonia com TODOS OS **PODERES** ! E sem 
+USURPAÇÃO! HASHTAG #respeitemaconstituicao_h HASHTAG #liberdadedeexpressao_h 
+HASHTAG #stfrompeuademocracia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+emanar 
+poder 
+povo 

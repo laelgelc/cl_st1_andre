@@ -1,0 +1,17 @@
+file = t000599
+date = 2020-06-20
+user = ConradoTavolaro
+conversation = 69901110
+URL = https://twitter.com/ConradoTavolaro/status/1274139839705694209
+
+word count = 25
+words loading = 1
+factor score = -1
+
+Como isso é possível **chega** a doer a hipocrisia. Corrupto pego no GRAMPO 
+NOSSA LIBERDADE DE EXPRESSÃO INDO PARA O SACO HASHTAG #stfvergonhanacional_h 
+HASHTAG #alexandredemoraesnacadeia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+chegar 

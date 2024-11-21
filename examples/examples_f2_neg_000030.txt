@@ -1,0 +1,21 @@
+file = t001242
+date = 2021-09-07
+user = LadyLaura32BP20
+conversation = 332774859
+URL = https://twitter.com/LadyLaura32BP20/status/1435253288585289728
+
+word count = 15
+words loading = 1
+factor score = -1
+
+@leandroruschel Toooop de lindo Brasil face_screaming_in_fear_e 
+face_screaming_in_fear_e flag_brazil_e flag_brazil_e HASHTAG 
+#7desetpelaliberdade_h HASHTAG #eunaovoteinostf_h HASHTAG 
+#stfcrasheddemocracyinbrazil_h HASHTAG #stfrompeuademocracia_h HASHTAG 
+#diadaindependencia_h HASHTAG #liberdadedeexpressao_h **chega** de HASHTAG 
+#ditaduradatoga_h face_with_raised_eyebrow_e face_with_raised_eyebrow_e 
+face_with_raised_eyebrow_e face_with_raised_eyebrow_e 
+
+Lemmas in this text that loaded on the factor:
+
+chegar 

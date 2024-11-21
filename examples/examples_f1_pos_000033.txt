@@ -1,0 +1,22 @@
+file = t001395
+date = 2021-08-22
+user = DBatta2
+conversation = 1118621042925285377
+URL = https://twitter.com/DBatta2/status/1429449737778966536
+
+word count = 36
+words loading = 5
+factor score = 8
+
+@Jacariana O Senador " alicate " é **bom** no que **faz** . . . HASHTAG 
+#stfrompeuademocracia_h **Queremos** a EXTINÇÃO do TSE. **Queremos** a 
+**LIVRE** Expressão da Opinião. **Queremos** a **LIBERDADE** dos presos 
+políticos! **Queremos** a RENUNCIA dos petistas travesti de juiz. 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+fazer 
+liberdade 
+livre 
+querer 

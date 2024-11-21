@@ -1,0 +1,24 @@
+file = t001480
+date = 2021-08-20
+user = vadadarjs
+conversation = 195875448
+URL = https://twitter.com/vadadarjs/status/1428840150897987589
+
+word count = 36
+words loading = 7
+factor score = 9
+
+HASHTAG #stfrompeuademocracia_h A esquerda pode **fazer** tudo: defamar, 
+**chamar** o **presidente** de genocida, espalhar fake que é **liberdade** de 
+expressão enquanto isso os conservadores são **preso** **tem** o sigilo 
+quebrado para levar uma devassa da justiça. 
+
+Lemmas in this text that loaded on the factor:
+
+chamar 
+fazer 
+liberdade 
+prender 
+presidente 
+stfrompeuademocracia_h 
+ter 

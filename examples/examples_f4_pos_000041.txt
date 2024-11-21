@@ -1,0 +1,19 @@
+file = t001366
+date = 2021-08-23
+user = LST_br
+conversation = 2925081089
+URL = https://twitter.com/LST_br/status/1429853247209103363
+
+word count = 43
+words loading = 2
+factor score = 2
+
+Hoje eu gostaria de saber onde estão os @titasoficial @os_paralamas 
+@andreaskisser @sepulturacombr que cantavam " Polícia para quem **precisa** " 
+. Não vi um HASHTAG #stfrompeuademocracia_h, a final é a galera do Rock na 
+veia, liberdade de expressão. É do o **povo** ou Rouanet da elite? url 
+
+Lemmas in this text that loaded on the factor:
+
+povo 
+precisar 

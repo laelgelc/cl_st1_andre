@@ -1,0 +1,24 @@
+file = t001586
+date = 2022-11-16
+user = brasilialdo
+conversation = 1572944985065922562
+URL = https://twitter.com/brasilialdo/status/1592855919263895554
+
+word count = 36
+words loading = 7
+factor score = 9
+
+STF Esse é o inimigo do Brasil manipula a **democracia** manipula as 
+eleições manipula a constituição **censura** e **tira** o **direito** de 
+**liberdade** de expressão e favorece a corrupção e o **crime** organizado 
+HASHTAG #stfvergonhamundial_h url 
+
+Lemmas in this text that loaded on the factor:
+
+censura 
+crime 
+democracia 
+direito 
+liberdade 
+stfvergonhamundial_h 
+tirar 

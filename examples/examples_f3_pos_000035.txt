@@ -1,0 +1,22 @@
+file = t001265
+date = 2021-09-06
+user = LadyLaura32BP20
+conversation = 332774859
+URL = https://twitter.com/LadyLaura32BP20/status/1434855244580728834
+
+word count = 38
+words loading = 2
+factor score = 2
+
+@cabogilberto @CarlaZambelli38 @rpsenador Gostaria de saber:o que Pacheco está 
+esperando? Tantos abusos desse togado e o senado acovardado segue fingindo 
+demência unamused_face_e woman_facepalming_medium-light_skin_tone_e 
+**flag_brazil_e** vai esperar prender todos que criticam e repudiam os atos 
+inconstitucionais do HASHTAG #stfrompeuademocracia_h **flag_brazil_e** 
+thumbs_down_medium-light_skin_tone_e HASHTAG #liberdadedeexpressao_h HASHTAG 
+#dia7vaisergigantesco_h **flag_brazil_e** 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+light_skin_tone_e 

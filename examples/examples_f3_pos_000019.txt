@@ -1,0 +1,19 @@
+file = t000151
+date = 2021-09-08
+user = joaopedroalbez
+conversation = 1252095839574601728
+URL = https://twitter.com/joaopedroalbez/status/1435395763517931522
+
+word count = 14
+words loading = 4
+factor score = 3
+
+**Verás** que o filho teu não foge à **luta** ! **flag_brazil_e** HASHTAG 
+#liberdade_h HASHTAG #7desetpelaliberdade_h HASHTAG #supremoeopovo_h url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+luta 
+supremoeopovo_h 
+ver (secondary)

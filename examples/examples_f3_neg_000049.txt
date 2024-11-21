@@ -1,0 +1,18 @@
+file = t001168
+date = 2022-03-18
+user = Idelmar_Trabach
+conversation = 1092788451051749376
+URL = https://twitter.com/Idelmar_Trabach/status/1504968246688161794
+
+word count = 38
+words loading = 1
+factor score = -1
+
+@marcosdoval E o senado continua frouxo e sem moral para **impor** a lei e a 
+ordem referente a constituição federal ( isto é matar a liberdade de 
+expressão em seu legítimo estado de direito constitucional ) . Adeus 
+democracia. HASHTAG #stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+impor 

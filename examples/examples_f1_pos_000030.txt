@@ -1,0 +1,25 @@
+file = t001540
+date = 2019-11-01
+user = Cidinha34928645
+conversation = 1053845502943526913
+URL = https://twitter.com/Cidinha34928645/status/1190129998788734976
+
+word count = 48
+words loading = 7
+factor score = 8
+
+@RenovaMidia Só escreveu verdades! Todo Brasileiro honesto concorda com ele! 
+Eu não **sabia** q a **liberdade** de expressão já é **crime** aqui nessa 
+nossa robusta **democracia** ! **Fique** firme @filgmartin, não se intimide e 
+não se desculpe, continue **falando** por nós que não **temos** lugar de 
+fala! HASHTAG #stfvergonha_h 
+
+Lemmas in this text that loaded on the factor:
+
+crime 
+democracia 
+falar 
+ficar 
+liberdade 
+saber 
+ter 

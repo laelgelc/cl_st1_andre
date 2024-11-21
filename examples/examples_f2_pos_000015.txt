@@ -1,0 +1,18 @@
+file = t001996
+date = 2022-11-09
+user = romuloinnocenci
+conversation = 185711715
+URL = https://twitter.com/romuloinnocenci/status/1590301701881225217
+
+word count = 18
+words loading = 1
+factor score = 1
+
+HASHTAG #xandão_h HASHTAG #alexandredemorais_h HASHTAG #censura_h HASHTAG 
+#eagora_h HASHTAG #brazilcalado_h HASHTAG #adi4451_h HASHTAG #liberdade_h 
+HASHTAG #liberdadeexpressao_h Escreveu por escrever ministro? **leiam** se 
+interessar: url url 
+
+Lemmas in this text that loaded on the factor:
+
+ler 

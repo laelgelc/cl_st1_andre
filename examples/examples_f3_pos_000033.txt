@@ -1,0 +1,19 @@
+file = t001316
+date = 2021-08-31
+user = Rose_Scaquetti
+conversation = 1222305549578051586
+URL = https://twitter.com/Rose_Scaquetti/status/1432683066166845442
+
+word count = 17
+words loading = 3
+factor score = 2
+
+Precisamos nos levantar e **lutar** pelo nosso Brasil, antes que seja tarde. 
+thumbs_up_e flexed_biceps_e **handshake_e** HASHTAG #liberdadedeexpressao_h 
+HASHTAG #dia07vaisergigante_h HASHTAG #stfrompeuademocracia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+handshake_e 
+lutar 
+stfrompeuademocracia_h (secondary)

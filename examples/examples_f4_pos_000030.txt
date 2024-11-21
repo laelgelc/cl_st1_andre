@@ -1,0 +1,20 @@
+file = t001763
+date = 2021-09-23
+user = LapedesP
+conversation = 1196877073329139714
+URL = https://twitter.com/LapedesP/status/1441155100282691586
+
+word count = 26
+words loading = 2
+factor score = 2
+
+Eu apoio @jairbolsonaro O HASHTAG #brasil_h **precisa** mudar. O sistema 
+politico nem se fala, não é ? ? @SenadoFederal @camaradeputados @STF_oficial 
+HASHTAG #7desetembro_h HASHTAG #7desetembropelaliberdade_h HASHTAG #liberdade_h 
+de expressão. HASHTAG #stfvergonhanacional_h. HASHTAG #stfvergonhamundial_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade_h 
+precisar 

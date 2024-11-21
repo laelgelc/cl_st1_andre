@@ -1,0 +1,19 @@
+file = t002004
+date = 2022-10-29
+user = adeborah_muniz
+conversation = 1584361647942017024
+URL = https://twitter.com/adeborah_muniz/status/1586478202050211841
+
+word count = 33
+words loading = 1
+factor score = 1
+
+HASHTAG #xandao_h provocou isso! Riu da cara do povo brasileiro com seus 
+DESMANDOS descabidos! Não glorifico a falta de **respeito** , mas sinceramente 
+ele MERECE nosso repúdio e revolta! HASHTAG #direitaunida_h HASHTAG 
+#liberdadedeexpressaoplena_h HASHTAG #twitter_h HASHTAG #foraalexabdedemoraes_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+respeito 

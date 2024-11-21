@@ -1,0 +1,18 @@
+file = t001113
+date = 2022-08-24
+user = JairoBarros2022
+conversation = 1561163345876631552
+URL = https://twitter.com/JairoBarros2022/status/1562518033481928705
+
+word count = 35
+words loading = 1
+factor score = -2
+
+**MARCO** AURÉLIO MELLO DETONA DECISÃO DE MORAES " Para defender a 
+democracia, não podemos colocar em terceiro plano a liberdade de expressão. 
+Esses cidadãos sequer têm prerrogativa de serem julgados pelo STF. " HASHTAG 
+#stfrompeuademocracia_h HASHTAG #stfrompeuademocracia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+marco 

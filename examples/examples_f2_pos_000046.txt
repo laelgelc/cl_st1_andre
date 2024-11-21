@@ -1,0 +1,19 @@
+file = t001412
+date = 2021-08-21
+user = thalita_vargas1
+conversation = 731909790
+URL = https://twitter.com/thalita_vargas1/status/1429163232716066819
+
+word count = 32
+words loading = 2
+factor score = 1
+
+" **Basta** apenas uma geração abrir mão de sua **liberdade** e nós a 
+perderemos para sempre. " ( George Washington ao defender a **liberdade** de 
+expressão nos USA ) . HASHTAG #dia7vaisergigante_h Xandao não me prende! 
+HASHTAG #stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+bastar 
+liberdade (secondary)

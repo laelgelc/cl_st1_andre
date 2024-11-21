@@ -1,0 +1,19 @@
+file = t000716
+date = 2022-11-13
+user = AmandaSPinto
+conversation = 76408714
+URL = https://twitter.com/AmandaSPinto/status/1591917000355614721
+
+word count = 14
+words loading = 1
+factor score = -1
+
+yellow_heart_e green_heart_e yellow_heart_e green_heart_e yellow_heart_e 
+green_heart_e Pela Liberdade! HASHTAG #censuranão_h HASHTAG #liberdade_h 
+HASHTAG #stforganizacaocriminosa_h HASHTAG #stfnãomerepresenta_h HASHTAG 
+#stfvergonhamundial_h HASHTAG #braziliansprings_h HASHTAG #brazilianspring_h 
+HASHTAG #brazil_h HASHTAG #sosffaa_h HASHTAG #sosforcasarmadas_h url 
+
+Lemmas in this text that loaded on the factor:
+
+sosforcasarmadas_h 

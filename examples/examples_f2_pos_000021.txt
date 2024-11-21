@@ -1,0 +1,19 @@
+file = t001931
+date = 2022-10-20
+user = AntonioLivros
+conversation = 608344793
+URL = https://twitter.com/AntonioLivros/status/1583092236304420864
+
+word count = 31
+words loading = 1
+factor score = 1
+
+@bibibimyto @AnaPaulaVolei Os Sra " ministros " e toda " corja " que caminha na 
+ideologia do " ex " ( luladrão ) jamais terá o **respeito** de um Povo 
+verdadeiramente Patriota! ! ! flag_brazil_e HASHTAG #bolsonaroreeleito2_h️⃣ 
+keycap_2_e HASHTAG #stfvergonhanacional_h HASHTAG #tsevergonhanacional_h 
+HASHTAG #jovempanews_h HASHTAG #liberdade_h url 
+
+Lemmas in this text that loaded on the factor:
+
+respeito 

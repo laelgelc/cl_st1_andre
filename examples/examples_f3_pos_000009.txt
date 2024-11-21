@@ -1,0 +1,25 @@
+file = t000207
+date = 2021-09-07
+user = AntonellaVilaca
+conversation = 1435102768830763011
+URL = https://twitter.com/AntonellaVilaca/status/1435249179106979841
+
+word count = 35
+words loading = 6
+factor score = 4
+
+@veramagalhaes @veramagalhaes que Deus abra seus olhos, entendimento e seu 
+coração para o que é realmente **bom** . 
+folded_hands_medium-light_skin_tone_e raising_hands_medium-light_skin_tone_e A 
+**Direita** também quer respeito e liberdade de expressão. Brasil, justiça e 
+liberdade para TODOS. HASHTAG #dia07vaisergigantesco_h HASHTAG #supremoeopovo_h 
+**flag_brazil_e** **heart_suit_e** 
+
+Lemmas in this text that loaded on the factor:
+
+bom (secondary)
+direita (secondary)
+flag_brazil_e 
+folded_hands_medium 
+heart_suit_e 
+light_skin_tone_e 

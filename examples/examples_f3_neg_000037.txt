@@ -1,0 +1,19 @@
+file = t000841
+date = 2022-04-21
+user = app_viana
+conversation = 2221437865
+URL = https://twitter.com/app_viana/status/1517270589140082689
+
+word count = 35
+words loading = 2
+factor score = -1
+
+@CarlaZambelli38 @Countvon1 @jairbolsonaro O feitiço virando contra o 
+feiticeiro: Todos os fundamentos baseados nos despachos do **semideus** togado 
+e **tirano** Xandão! HASHTAG #stforganizacaocriminosa_h Viva nossa LIBERDADE 
+DE EXPRESSÃO Viva a DEMOCRACIA Parabéns, Presidente @jairbolsonaro! url 
+
+Lemmas in this text that loaded on the factor:
+
+semideus 
+tirano (secondary)

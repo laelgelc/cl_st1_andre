@@ -1,0 +1,22 @@
+file = t001418
+date = 2021-08-21
+user = rosavas
+conversation = 87687344
+URL = https://twitter.com/rosavas/status/1429125489550036993
+
+word count = 24
+words loading = 5
+factor score = 4
+
+HASHTAG #stfrompeuademocracia_h backhand_index_pointing_right_e HASHTAG 
+#dia07vaisergigante_h backhand_index_pointing_right_e Artigo 1 da 
+Constituição Federal, todo **poder** **emana** do **povo** . Que se cumpra a 
+lei. **Vem** para rua Brasil! ! ! HASHTAG #liberdade_h url 
+
+Lemmas in this text that loaded on the factor:
+
+emanar 
+liberdade_h 
+poder 
+povo 
+vir (secondary)

@@ -1,0 +1,20 @@
+file = t001478
+date = 2021-08-20
+user = BR_DeTodos200Mi
+conversation = 1702757066
+URL = https://twitter.com/BR_DeTodos200Mi/status/1428842224993832965
+
+word count = 43
+words loading = 3
+factor score = 3
+
+Cadê os artistas sertanejos? ? Tá na hora tds se unirem em defesa da 
+democracia, da liberdade de expressão, do voto auditável e impresso. E de 
+impeachment Alexandre de Moraes e Barroso. HASHTAG #stfrompeuademocracia_h 
+**Dia** 7 de **setembro** , **povo** nas ruas do Brasil. url 
+
+Lemmas in this text that loaded on the factor:
+
+dia 
+povo 
+setembro 

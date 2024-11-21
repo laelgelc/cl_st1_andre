@@ -1,0 +1,20 @@
+file = t001336
+date = 2021-08-27
+user = marcbarrod
+conversation = 2549885939
+URL = https://twitter.com/marcbarrod/status/1431246548361437184
+
+word count = 33
+words loading = 1
+factor score = -1
+
+Resumindo a REALIDADE que **chegamos** . " Não pense, Que a cabeça aguenta, 
+Se você parar " . Se você só PENSAR sem LUTAR, vai acabar LOUCO. 
+face_with_tears_of_joy_e face_with_tears_of_joy_e face_with_tears_of_joy_e Lute 
+pela sua HASHTAG #liberdade_h. HASHTAG #tocontigobolsonaro_h HASHTAG 
+#stfrompeuademocracia_h HASHTAG #dia7vaisergigante_h HASHTAG 
+#dia07vaisergigante_h url 
+
+Lemmas in this text that loaded on the factor:
+
+chegar 

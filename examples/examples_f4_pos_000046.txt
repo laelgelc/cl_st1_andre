@@ -1,0 +1,19 @@
+file = t001223
+date = 2021-09-08
+user = RosiLop49525959
+conversation = 1103452592896651264
+URL = https://twitter.com/RosiLop49525959/status/1435530849877782529
+
+word count = 28
+words loading = 2
+factor score = 2
+
+Supremo é o **Povo** . Alexandre **precisa** de camisa de força. Ele pirou 
+total e isso está evidente. Ele **precisa** de ajuda psiquiátrica. HASHTAG 
+#liberdade_h HASHTAG #dia07pelaliberdade_h HASHTAG #stfrompeuademocracia_h 
+HASHTAG #stfvergonhanacional_h url 
+
+Lemmas in this text that loaded on the factor:
+
+povo 
+precisar 

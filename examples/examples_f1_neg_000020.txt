@@ -1,0 +1,16 @@
+file = t000087
+date = 2022-11-05
+user = BenvenuttiToni
+conversation = 1588343689440645121
+URL = https://twitter.com/BenvenuttiToni/status/1588992451003715584
+
+word count = 5
+words loading = 1
+factor score = -1
+
+HASHTAG #supremoeopovo_h HASHTAG #liberdadenaoseganhasetoma_h HASHTAG 
+#censuranao_h url 
+
+Lemmas in this text that loaded on the factor:
+
+censuranao_h 

@@ -1,0 +1,21 @@
+file = t001772
+date = 2021-09-09
+user = Erika52621098
+conversation = 1123369683049177098
+URL = https://twitter.com/Erika52621098/status/1435784091987849217
+
+word count = 45
+words loading = 3
+factor score = -3
+
+@magistradosbr @ludmilagrilo @camaradeputados @STFoficial Ridículo. **Juiz** 
+deve ser imparcial e não pode ser investigado, investigador, promotor, 
+advogado e **juiz** . Liberdade de expressão está acima de qq notinha de 
+associação de magistrados. A corrupção da inteligência e **ativismo** 
+**judicial** é marca atual do judiciário. HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+ativismo 
+judicial 
+juiz 

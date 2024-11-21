@@ -1,0 +1,22 @@
+file = t000400
+date = 2021-09-07
+user = dodoracourii
+conversation = 78575341
+URL = https://twitter.com/dodoracourii/status/1435183142877413379
+
+word count = 38
+words loading = 3
+factor score = 3
+
+@gouveia_kita @Marciagalao @29Mattos Será que ele consegue parar milhões que 
+vão pras ruas? Será que ele não sabe que " TODO **PODER** **EMANA** DO 
+**POVO** " e q o Brasil é um país DEMOCRÁTICO? HASHTAG 
+#foraalexandremoraes_h HASHTAG #alexandredemoraesditador_h HASHTAG 
+#liberdadejá_h HASHTAG #democracia_h HASHTAG #bolsonaroorgulhodobrasil_h 
+HASHTAG #bolsonaromelhorpresidentedobrasil_h 
+
+Lemmas in this text that loaded on the factor:
+
+emanar 
+poder 
+povo 

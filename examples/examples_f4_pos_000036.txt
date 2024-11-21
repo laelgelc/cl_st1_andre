@@ -1,0 +1,19 @@
+file = t001494
+date = 2021-08-20
+user = Gracamauad
+conversation = 242474531
+URL = https://twitter.com/Gracamauad/status/1428767338258706434
+
+word count = 31
+words loading = 2
+factor score = 2
+
+O que estão achando da harmonia entre os **poderes** ? Que linda a Democracia 
+e a liberdade de expressão! @SenadoFederal Acorda Senado! ! Todo o **POVO** 
+SOBERANO NAS RUAS! HASHTAG #dia07vaisergigante_h HASHTAG 
+#stfrompeuademocracia_h! url 
+
+Lemmas in this text that loaded on the factor:
+
+poder 
+povo 

@@ -1,0 +1,18 @@
+file = t000106
+date = 2022-06-09
+user = ramos_vado
+conversation = 1423660433689427969
+URL = https://twitter.com/ramos_vado/status/1534923232943407108
+
+word count = 38
+words loading = 1
+factor score = -1
+
+Nós os PATRIOTAS, não iremos ceder ao **AUTORITARISMO** dos ministros do STF. 
+O verdadeiro SUPREMO poder da NAÇÃO, Vossas EXCELÊNCIAS, o povo brasileiro, 
+exige: obediência a CONSTITUIÇÃO FEDERAL, liberdade de expressão e 
+transparência nas eleições. HASHTAG #supremoéopovo_h url 
+
+Lemmas in this text that loaded on the factor:
+
+autoritarismo 

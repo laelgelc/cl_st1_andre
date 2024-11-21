@@ -1,0 +1,20 @@
+file = t000183
+date = 2021-09-07
+user = JTymotio
+conversation = 989121519744843776
+URL = https://twitter.com/JTymotio/status/1435286504310513668
+
+word count = 28
+words loading = 3
+factor score = 3
+
+Povo brasileiro em um gesto claro de q não abre mão da liberdade e apoio ao 
+presidente Bolsonaro **handshake_e** **light_skin_tone_e** **flag_brazil_e** 
+Brasília em 07 / 09 / 21 HASHTAG #liberdade_h HASHTAG #liberdadedeexpressão_h 
+HASHTAG #supremoéopovo_h url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+handshake_e 
+light_skin_tone_e 

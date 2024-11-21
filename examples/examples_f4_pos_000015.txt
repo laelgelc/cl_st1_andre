@@ -1,0 +1,21 @@
+file = t001361
+date = 2021-08-23
+user = yamaokaeyuki
+conversation = 50636122
+URL = https://twitter.com/yamaokaeyuki/status/1429933666415874048
+
+word count = 25
+words loading = 3
+factor score = 3
+
+**Dia** 07 de **setembro** vai ser **gigante** , Eu vou e você , juntos somos 
+mais fortes. HASHTAG #dia07vaisergigante_h HASHTAG 
+#nossabandeirajamaisseravermelha_h HASHTAG #liberdadedeexpressão_h HASHTAG 
+#liberdadedeexpressãojà_h HASHTAG #censuranao_h HASHTAG #stfvergonhamundial_h 
+HASHTAG #stfrompeuademocracia_h HASHTAG #stfvergonhanacional_h url 
+
+Lemmas in this text that loaded on the factor:
+
+dia 
+gigante 
+setembro 

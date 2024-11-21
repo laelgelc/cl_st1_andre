@@ -1,0 +1,21 @@
+file = t000931
+date = 2021-09-05
+user = PastorLopesUk
+conversation = 1095219890
+URL = https://twitter.com/PastorLopesUk/status/1434662645215399938
+
+word count = 36
+words loading = 3
+factor score = 3
+
+@renatobarrosbr @jairbolsonaro A CRIMINALIZAÇÃO DO COMUNISMO … É A Única 
+Coisa Que Pode Matar o Câncer Do Brasil. O **povo** brasileiro **Precisa** 
+pedir isso no 07 de **setembro** . HASHTAG #liberdade_h HASHTAG 
+#criminalizaçãodocomunismo_h HASHTAG #votoauditável_h HASHTAG 
+#stforganizacaocriminosa_h @Biakicis @taoquei1 @CarlaZambelli38 @PastorMalafaia 
+
+Lemmas in this text that loaded on the factor:
+
+povo 
+precisar 
+setembro 

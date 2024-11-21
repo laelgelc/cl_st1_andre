@@ -1,0 +1,22 @@
+file = t000851
+date = 2022-04-21
+user = Menezes09Renata
+conversation = 1419993548276051968
+URL = https://twitter.com/Menezes09Renata/status/1516933303252787201
+
+word count = 39
+words loading = 4
+factor score = -3
+
+@JovemPanNews Engraçado pois vejo tanto comentários **imbecil** a favor do 
+HASHTAG #stforganizacaocriminosa_h HASHTAG #stforganizacaocriminosa_h que 
+tiraram a liberdade de expressão de um **parlamentar** e **imagina** só de um 
+mero cidadão. Aguardarei o Tribunal Internacional mandar **prender** estes 
+ministros do STF 
+
+Lemmas in this text that loaded on the factor:
+
+imaginar 
+imbecil 
+parlamentar 
+prender (secondary)

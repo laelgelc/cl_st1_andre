@@ -1,0 +1,20 @@
+file = t000729
+date = 2022-11-08
+user = Petty_bird
+conversation = 233941611
+URL = https://twitter.com/Petty_bird/status/1590030603168407552
+
+word count = 16
+words loading = 1
+factor score = -1
+
+HASHTAG #povosoberano_h HASHTAG #povonasruas_h HASHTAG 
+#manifestacoespacificas_h HASHTAG #liberdadedeexpressao_h HASHTAG 
+#sosforcasarmadas_h HASHTAG #06nov2022_h HASHTAG #brazil_h @FoxNews 
+@BBCLondonNews HASHTAG #stforganizacaocriminosa_h HASHTAG 
+#stfrompeuademocracia_h HASHTAG #lulanaopodeserdiplomado_h HASHTAG 
+#comunismoesmiseriaytirania_h HASHTAG #lulaladrão_h url 
+
+Lemmas in this text that loaded on the factor:
+
+brazil_h 

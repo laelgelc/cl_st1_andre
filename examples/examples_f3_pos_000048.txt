@@ -1,0 +1,20 @@
+file = t000230
+date = 2021-09-07
+user = rascunho1966
+conversation = 1136282501192802305
+URL = https://twitter.com/rascunho1966/status/1435182414616317955
+
+word count = 37
+words loading = 3
+factor score = 2
+
+SUPREMO É O POVO " **Verás** que o filho teu não foge à **luta** " . 
+Liberdade de expressão para todos! Leis justas! Ministros não são 
+legisladores! Liberdade para @danielPMERJ já ! Ele e todos os presos 
+políticos! HASHTAG #supremoeopovo_h url 
+
+Lemmas in this text that loaded on the factor:
+
+luta 
+supremoeopovo_h 
+ver (secondary)

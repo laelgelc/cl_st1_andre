@@ -1,0 +1,19 @@
+file = t001732
+date = 2022-02-02
+user = ephilippsen
+conversation = 67446708
+URL = https://twitter.com/ephilippsen/status/1488939554275045381
+
+word count = 44
+words loading = 1
+factor score = 1
+
+@SigaGazetaBR Pelo que sei sei, a Lei brasileira permite a livre expressão do 
+pensamento. Quem se expressar e **cometer** abusos ( código penal Art. 138 , 
+139 e 140 ) devem responder posteriormente. Não existe crime futuro. 
+Declaração Universal dos Direitos Humanos ( ONU ) , Art. 19 . HASHTAG 
+#stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+cometer 

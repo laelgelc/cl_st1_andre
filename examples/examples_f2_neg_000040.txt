@@ -1,0 +1,18 @@
+file = t001645
+date = 2022-10-19
+user = MichaelMBP06
+conversation = 1518884890816745475
+URL = https://twitter.com/MichaelMBP06/status/1582751176701149184
+
+word count = 36
+words loading = 1
+factor score = -1
+
+@folha Nojentos, asquerosos e desprezíveis. O TSE censura a liberdade de 
+expressão da @JovemPanNews é do @brasilparalelo a pedido do PT. E VOCÊS 
+FICAM CALADOS. HIPOCRITAS. A CENSURA **CHEGARÁ** ATÉ VICÊS TAMBÉM. HASHTAG 
+#censuranao_h HASHTAG #tsevergonhanacional_h HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegar 

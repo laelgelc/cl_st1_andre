@@ -1,0 +1,20 @@
+file = t001889
+date = 2022-11-06
+user = yurifersouza
+conversation = 567295231
+URL = https://twitter.com/yurifersouza/status/1589063409097592832
+
+word count = 41
+words loading = 2
+factor score = 1
+
+@Basiliarodri Sua opinião é tão relevante quanto o lema da bandeira " 
+Independência ou Morte " . A **liberdade** de expressão é sagrada, assim 
+como a responsabilidade por possíveis crimes **cometidos** no uso dessa 
+**liberdade** . Aceitar censura é atacar a democracia! HASHTAG #censuranao_h 
+HASHTAG #tsevergonhanacional_h 
+
+Lemmas in this text that loaded on the factor:
+
+cometer 
+liberdade (secondary)

@@ -1,0 +1,19 @@
+file = t001729
+date = 2022-02-26
+user = renatocorreiabh
+conversation = 41940649
+URL = https://twitter.com/renatocorreiabh/status/1497710789221883911
+
+word count = 30
+words loading = 2
+factor score = 2
+
+Vergonha para o Brasil ter Ministros que agem como **tiranos** a luz do **dia** 
+, afrontando à Constituição implantando a censura em pleno Séc. XXI. 
+HASHTAG #censura_h HASHTAG #liberdadedeopiniao_h HASHTAG #stfvergonhamundial_h 
+HASHTAG #brasil_h url 
+
+Lemmas in this text that loaded on the factor:
+
+dia 
+tirano 

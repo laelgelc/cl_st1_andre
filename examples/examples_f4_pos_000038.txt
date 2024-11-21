@@ -1,0 +1,21 @@
+file = t001464
+date = 2021-08-21
+user = _rodrigosilva30
+conversation = 905449620880453632
+URL = https://twitter.com/_rodrigosilva30/status/1428886158545719299
+
+word count = 40
+words loading = 3
+factor score = 2
+
+@CarlaZambelli38 Em Maratona os atenienses **lutaram** , nos portões de fogo 
+os espartos, agora os brasileiros irão **lutar** pela liberdade no **dia** 07 
+de **setembro** em busca de democracia. Juntos contra a tirania dos Supremos. 
+HASHTAG #stfrompeuademocracia_h HASHTAG #dia07vaisergigante_h HASHTAG #xandao_h 
+HASHTAG #liberdade_h HASHTAG #dia7vaisergigante_h 
+
+Lemmas in this text that loaded on the factor:
+
+dia 
+lutar (secondary)
+setembro 

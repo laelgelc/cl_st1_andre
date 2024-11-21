@@ -1,0 +1,19 @@
+file = t000084
+date = 2022-11-05
+user = BRKSJOSEPH83
+conversation = 1582043157914697735
+URL = https://twitter.com/BRKSJOSEPH83/status/1589032917304365057
+
+word count = 21
+words loading = 2
+factor score = -2
+
+Haverá momentos em que você irá tomar tomar decisões como **homem** , mesmo 
+chorando como menino. HASHTAG #supremoeopovo_h HASHTAG 
+#brasilacimadetudodeusacimadetodos_h HASHTAG #liberdadedeexpressao_h HASHTAG 
+#sosffaa_h url 
+
+Lemmas in this text that loaded on the factor:
+
+homem 
+sosffaa_h 

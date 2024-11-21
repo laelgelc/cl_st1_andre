@@ -1,0 +1,17 @@
+file = t001006
+date = 2022-11-17
+user = cristianoaed
+conversation = 1173915574067453952
+URL = https://twitter.com/cristianoaed/status/1593211342244438016
+
+word count = 36
+words loading = 0
+factor score = -1
+
+Em muito breve, as decisões e acórdãos do STF em sede de recursos do 
+cidadão contra o Estado, em vez de " indefiro " ou " nego provimento " virão 
+com " perdeu, mané , não amola " . HASHTAG #liberdadedeexpressao_h HASHTAG 
+#stfrompeuademocracia_h HASHTAG #ditaduradatoga_h HASHTAG #ditaduranuncamais_h 
+
+Lemmas in this text that loaded on the factor:
+

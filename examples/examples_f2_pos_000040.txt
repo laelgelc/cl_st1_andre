@@ -1,0 +1,20 @@
+file = t001529
+date = 2020-09-12
+user = FlvioHe22587257
+conversation = 1242985267486773248
+URL = https://twitter.com/FlvioHe22587257/status/1304583223926759425
+
+word count = 43
+words loading = 2
+factor score = 1
+
+@RenovaMidia Mais uma ladainha desse aí sem fundamento jurídico. Fala tanto 
+em milícias digitais e até agora nada concreto. Não esquecer que eles estão 
+**cometendo** crimes contra a **liberdade** de expressão, invasão de 
+privacidade e outras atrocidades por uma investigação ilegal. HASHTAG 
+#stfvergonha_h 
+
+Lemmas in this text that loaded on the factor:
+
+cometer 
+liberdade (secondary)

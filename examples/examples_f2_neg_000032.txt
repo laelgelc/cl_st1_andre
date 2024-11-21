@@ -1,0 +1,19 @@
+file = t001301
+date = 2021-09-01
+user = Roserci
+conversation = 87573972
+URL = https://twitter.com/Roserci/status/1432909038656884736
+
+word count = 36
+words loading = 2
+factor score = -1
+
+@STF_oficial Vamos ver se continuarão a cercear o direito à liberdade de 
+expressão após o dia 7 de setembro. A Constituição não pertence ao STF, o 
+**povo** é soberano e **unidos** iremos mostrar nossa força. HASHTAG 
+#stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+povo (secondary)
+unir 

@@ -1,0 +1,25 @@
+file = t000739
+date = 2022-11-01
+user = ChavesAlys
+conversation = 1118336525778006016
+URL = https://twitter.com/ChavesAlys/status/1587252598989520902
+
+word count = 31
+words loading = 8
+factor score = 9
+
+@STF_oficial HASHTAG #euapoiooscaminhoneiros_h Ninguém esta bloqueado o **ir** 
+e **vir** dos cidadãos, apenas manifestando a sua **liberdade** de 
+**pensamento** . **Vivemos** em uma **democracia** , e todos **têm** o 
+**direito** de se manifestar. HASHTAG #stforganizacaocriminosa_h 
+
+Lemmas in this text that loaded on the factor:
+
+democracia 
+direito 
+ir 
+liberdade 
+pensamento 
+ter 
+vir 
+viver 

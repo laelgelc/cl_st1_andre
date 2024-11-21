@@ -1,0 +1,26 @@
+file = t000878
+date = 2022-03-19
+user = cowboy4u22
+conversation = 1364612003013271560
+URL = https://twitter.com/cowboy4u22/status/1505252674639470593
+
+word count = 42
+words loading = 8
+factor score = 9
+
+@VEJA @radaronline Quem diria. . . O **presidente** que a **imprensa** 
+**chama** de **ditador** quer **liberdade** de expressão. . . E a **imprensa** 
+e o STF que se dizem democráticos pregam a **CENSURA** ! Porque **querem** 
+**calar** o PR? Por que a teta secou! ! ! ! HASHTAG #stforganizacaocriminosa_h 
+HASHTAG #impeachmentalexandredemoraes_h 
+
+Lemmas in this text that loaded on the factor:
+
+calar 
+censura 
+chamar 
+ditador 
+imprensa 
+liberdade 
+presidente 
+querer 

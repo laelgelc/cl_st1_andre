@@ -1,0 +1,17 @@
+file = t000818
+date = 2022-05-28
+user = 1733david
+conversation = 61072642
+URL = https://twitter.com/1733david/status/1530642306692521987
+
+word count = 35
+words loading = 1
+factor score = -1
+
+@gazetadopovo Se o BRASIL fosse um país onde a liberdade de expressão não 
+fosse CRIME, eu diria, Que a CORTE VIROU a CASA DA MÃE JOANA, **tomada** por 
+quadrilheiros. HASHTAG #stforganizacaocriminosa_h alguém prove o contrario. 
+
+Lemmas in this text that loaded on the factor:
+
+tomar 

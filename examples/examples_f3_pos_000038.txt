@@ -1,0 +1,20 @@
+file = t001224
+date = 2021-09-08
+user = AntonellaVilaca
+conversation = 1435102768830763011
+URL = https://twitter.com/AntonellaVilaca/status/1435437618838315008
+
+word count = 21
+words loading = 3
+factor score = 2
+
+@LuizCamargoVlog A **Direita** também quer respeito e liberdade de expressão. 
+Brasil, justiça e liberdade para TODOS. **flag_brazil_e** **heart_suit_e** 
+HASHTAG #globolixo_h HASHTAG #stfrompeuademocracia_h HASHTAG 
+#stfcrasheddemocracyinbrazil_h HASHTAG #stfvergonhanacional_h 
+
+Lemmas in this text that loaded on the factor:
+
+direita (secondary)
+flag_brazil_e 
+heart_suit_e 

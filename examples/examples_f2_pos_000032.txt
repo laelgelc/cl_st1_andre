@@ -1,0 +1,19 @@
+file = t001774
+date = 2021-09-09
+user = AntonellaVilaca
+conversation = 1435102768830763011
+URL = https://twitter.com/AntonellaVilaca/status/1435766230183563270
+
+word count = 22
+words loading = 2
+factor score = 1
+
+@sobotelha @nilmoretto @ArthurLira_ A Direita também quer **respeito** e 
+**liberdade** de expressão. Brasil, justiça e **liberdade** para TODOS, 
+TODOS! ! ! HASHTAG #somostodoscaminhoneiros_h HASHTAG 
+#impeachmentalexandremoraesja_h HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade (secondary)
+respeito 

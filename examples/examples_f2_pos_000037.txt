@@ -1,0 +1,18 @@
+file = t001717
+date = 2022-03-19
+user = VaniWadaJapan
+conversation = 1465257208954830849
+URL = https://twitter.com/VaniWadaJapan/status/1504983054871236610
+
+word count = 24
+words loading = 2
+factor score = 1
+
+@LRobertoBarroso Para TDS os dias esse **livro** que vcs esqueceram, 
+**liberdade** de expressão é Cláusula Pétrea não sei se vcs sabem HASHTAG 
+#stfvergonhamundial_h url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade (secondary)
+livro 

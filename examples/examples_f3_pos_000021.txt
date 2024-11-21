@@ -1,0 +1,24 @@
+file = t000116
+date = 2022-05-01
+user = sergiocjk
+conversation = 238120825
+URL = https://twitter.com/sergiocjk/status/1520791912982196224
+
+word count = 14
+words loading = 4
+factor score = 3
+
+ME SIGAM thumbs_up_medium-dark_skin_tone_e **flag_brazil_e** 
+statue_of_liberty_e HASHTAG #liberdade_h HASHTAG #1demaio_h HASHTAG 
+#1demaioeuvou_h HASHTAG #nãofiqueemcasa_h HASHTAG #todosdeverdeeamarelo_h 
+HASHTAG #supremoéopovo_h HASHTAG #votoimpresso_h HASHTAG #brasil_h HASHTAG 
+#brazil_h *COMPARTILHEM* **flag_brazil_e** **green_heart_e** **yellow_heart_e** 
+**flag_brazil_e** **green_heart_e** **yellow_heart_e** **flag_brazil_e** 
+**green_heart_e** **yellow_heart_e** **flag_brazil_e** url 
+
+Lemmas in this text that loaded on the factor:
+
+compartilhem (secondary)
+flag_brazil_e 
+green_heart_e 
+yellow_heart_e 

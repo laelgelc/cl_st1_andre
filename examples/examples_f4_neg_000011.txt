@@ -1,0 +1,22 @@
+file = t001903
+date = 2022-10-30
+user = valencaeb
+conversation = 2899911769
+URL = https://twitter.com/valencaeb/status/1586666660093632512
+
+word count = 45
+words loading = 4
+factor score = -3
+
+@alexandre @tse HASHTAG #tsevergonhanacional_h HASHTAG #tsepuxadinhodopt_h Essa 
+eleição foi uma vergonha. O TSE escolheu um lado. A C. Lúcia decidiu que 
+**chamar** o Bolsonaro de **genocida** é liberdade de expressão, mas o TSE 
+proibiu de **chamar** o Ladrão de ex-condenado e ex-presidiário. Foram muitos 
+os **absurdos** . É 22 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo (secondary)
+chamar (secondary)
+ex 
+genocida 

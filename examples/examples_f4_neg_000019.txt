@@ -1,0 +1,20 @@
+file = t000940
+date = 2021-08-27
+user = bruufernanndes
+conversation = 1226623349482303489
+URL = https://twitter.com/bruufernanndes/status/1431288745072939016
+
+word count = 26
+words loading = 2
+factor score = -2
+
+O trambiqueiro não está enganando ninguém, o golpe foi lançado cai quem 
+quer. **Cuidado** ! Ele vai censurar você **tbm** . HASHTAG 
+#liberdadedeopiniao_h HASHTAG #stfrompeuademocracia_h HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #esquerdanuncamais_h HASHTAG 
+#dia7vaisergigante_h url 
+
+Lemmas in this text that loaded on the factor:
+
+cuidado 
+tbm 

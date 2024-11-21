@@ -1,0 +1,20 @@
+file = t001660
+date = 2022-08-30
+user = AlmirGuimaraes5
+conversation = 1448438302298841093
+URL = https://twitter.com/AlmirGuimaraes5/status/1564584423261360128
+
+word count = 28
+words loading = 2
+factor score = 2
+
+! ! ! 7 DE **SETEMBRO** ! ! ! 1 . Ordem ilegal não se cumpre; 2 . Rodrigo 
+Pacheco é o culpado; 3 . 7 de **setembro** será **gigante** . HASHTAG 
+#liberdade_h HASHTAG #anossabandeirajamaisserávermelha_h HASHTAG 
+#bolsonaronoprimeiroturno_h HASHTAG #stfvergonhamundial_h HASHTAG 
+#eleiçõeslimpas_h url 
+
+Lemmas in this text that loaded on the factor:
+
+gigante 
+setembro 

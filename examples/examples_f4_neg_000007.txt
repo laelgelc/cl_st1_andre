@@ -1,0 +1,22 @@
+file = t001094
+date = 2022-09-03
+user = sbano_ro
+conversation = 1463260147
+URL = https://twitter.com/sbano_ro/status/1566116869379170304
+
+word count = 44
+words loading = 4
+factor score = -3
+
+@reinaldoazevedo Qual a novidade. Nosso Judiciário é militante. Podem chutar 
+a cabeça do Bolsonaro, **chamar** de **Genocida** , esfaquear boneco de 
+Bolsonaro que é liberdade de expressão. No boteco falar de Alexandre, dá 
+cadeia. Falar de PCC e PT não pode. **Ativismo** **judicial** . HASHTAG 
+#stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+ativismo 
+chamar (secondary)
+genocida 
+judicial 

@@ -1,0 +1,20 @@
+file = t000227
+date = 2021-09-07
+user = Francii_Japa
+conversation = 303964920
+URL = https://twitter.com/Francii_Japa/status/1435202710702264325
+
+word count = 9
+words loading = 3
+factor score = 3
+
+HASHTAG #supremoeopovo_h que **luta** pelo seu País. **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+**flag_brazil_e** HASHTAG #liberdadedeexpressao_h HASHTAG #7desetembro_h 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+lutar 
+supremoeopovo_h 

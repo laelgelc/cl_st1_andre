@@ -1,0 +1,19 @@
+file = t000906
+date = 2021-11-09
+user = rogerioflores
+conversation = 52035641
+URL = https://twitter.com/rogerioflores/status/1458043357670871046
+
+word count = 36
+words loading = 1
+factor score = -2
+
+Gostaria de saber onde na Constituição, no código penal ou em qualquer 
+regimento de congresso ou judiciário há um crime cuja **pena** é cercear a 
+liberdade de expressão de alguém? HASHTAG #stfvergonhanacional_h HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #ditaduradetoga_h HASHTAG #ditaduradostf_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+pena 

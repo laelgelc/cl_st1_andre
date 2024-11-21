@@ -1,0 +1,25 @@
+file = t000632
+date = 2022-08-29
+user = BrasilPodcast_
+conversation = 1526498917000564736
+URL = https://twitter.com/BrasilPodcast_/status/1564389726261592064
+
+word count = 45
+words loading = 7
+factor score = 9
+
+O @STF_oficial e o Xerife @alexandre **falam** tanto em **democracia** e 
+**liberdade** de expressão. Mas quando vc marca um deles no Instagram e a 
+opinião não **boa** . Logo vc é bloqueado e não pode mais menciona -los. A 
+**ditadura** já **existe** e **usa** toga. HASHTAG #stfditador_h HASHTAG 
+#stfvergonhanacional_h HASHTAG #stflixo_h 
+
+Lemmas in this text that loaded on the factor:
+
+bom 
+democracia 
+ditadura 
+existir 
+falar 
+liberdade 
+usar 

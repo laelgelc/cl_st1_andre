@@ -1,0 +1,20 @@
+file = t001344
+date = 2021-08-25
+user = ranx_cannibale
+conversation = 376555335
+URL = https://twitter.com/ranx_cannibale/status/1430664228675936256
+
+word count = 44
+words loading = 2
+factor score = 1
+
+O Sr. @rpsenador está completamente equivocado. Não é sobre harmonia entre 
+poderes. É sobre **respeito** à constituição e à **liberdade** de 
+expressão. O HASHTAG #stfrompeuademocracia_h e não aceitamos mais a atitude 
+petulante e autoritária de juízes. A instituição fica, mas juízes serão 
+trocados. url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade (secondary)
+respeito 

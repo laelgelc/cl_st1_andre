@@ -1,0 +1,19 @@
+file = t001883
+date = 2022-11-07
+user = jmgpaiva
+conversation = 554511614
+URL = https://twitter.com/jmgpaiva/status/1589746012683665408
+
+word count = 23
+words loading = 1
+factor score = -1
+
+Itererêêêê … . . tá **chegando** a hora da verdade … . E ela que nos 
+libertará de todo mal que estava por vir … . HASHTAG 
+#brasilacimadetudodeusacimadetodos_h HASHTAG #intervencaofederalja_h HASHTAG 
+#censuranao_h HASHTAG #tsevergonhanacional_h HASHTAG #liberdadedeexpressao_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+chegar 

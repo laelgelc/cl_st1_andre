@@ -1,0 +1,21 @@
+file = t000063
+date = 2022-11-12
+user = BianiAlves81
+conversation = 1591142284552294401
+URL = https://twitter.com/BianiAlves81/status/1591318420108496897
+
+word count = 23
+words loading = 3
+factor score = 3
+
+Os ônibus já estão mais de 10 km de distância das multidões, só cresce! 
+HASHTAG #brasilnasruas_h HASHTAG #democracia_h HASHTAG #liberdadedeexpressao_h 
+HASHTAG #censuranuncamais_h HASHTAG #povounidojamaisseravencido_h HASHTAG 
+#povonasruas_h HASHTAG #supremoéopovo_h **green_heart_e** **flag_brazil_e** 
+**raising_hands_e** url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+green_heart_e 
+raising_hands_e 

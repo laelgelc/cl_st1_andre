@@ -1,0 +1,17 @@
+file = t000474
+date = 2022-11-07
+user = jmgpaiva
+conversation = 554511614
+URL = https://twitter.com/jmgpaiva/status/1589746613907775489
+
+word count = 7
+words loading = 1
+factor score = -1
+
+HASHTAG #tseorganizacaocriminosa_h HASHTAG #intervencaofederalja_h HASHTAG 
+#alexandredemoraesnacadeia_h HASHTAG #liberdadedeexpressao_h HASHTAG #sosffaa_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+sosffaa_h 

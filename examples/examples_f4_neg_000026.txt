@@ -1,0 +1,19 @@
+file = t001833
+date = 2021-04-28
+user = MaiconScfield1
+conversation = 1254558646744342528
+URL = https://twitter.com/MaiconScfield1/status/1387545494323408898
+
+word count = 26
+words loading = 3
+factor score = -2
+
+Só no Brasil mesmo que é possível **existir** o **preso** político Daniel 
+Silveira, graças ao STF que tolhiu a liberdade de expressão do 
+**parlamentar** . HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+existir (secondary)
+parlamentar 
+preso 

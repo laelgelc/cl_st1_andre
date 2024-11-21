@@ -1,0 +1,23 @@
+file = t001114
+date = 2022-08-24
+user = belle_grillo
+conversation = 1084484666365825025
+URL = https://twitter.com/belle_grillo/status/1562494087638687744
+
+word count = 37
+words loading = 4
+factor score = 3
+
+" Pau que nasce torto, nunca se endireita. " HASHTAG #esquerdacriminosa_h 
+gear_e performing_arts_e HASHTAG #rachadinhadojanones_h HASHTAG 
+#transparencia_h **sparkles_e** DA HASHTAG #liberdade_h INERENTES À VERDADEIRA 
+DEMOCRACIA HASHTAG #stfrompeuademocracia_h desde à posse do Pr. . Ele avisou 
+que iria pegar os mais importantes, foi d forma vil. @SenadoFederal 
+**sos_button_e** **flag_brazil_e** url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+sos_button_e 
+sparkles_e 
+stfrompeuademocracia_h (secondary)

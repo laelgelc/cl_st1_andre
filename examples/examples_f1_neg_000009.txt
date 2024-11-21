@@ -1,0 +1,19 @@
+file = t000167
+date = 2021-09-07
+user = Drie_Franco
+conversation = 1114157953890828288
+URL = https://twitter.com/Drie_Franco/status/1435347540359188480
+
+word count = 25
+words loading = 2
+factor score = -2
+
+7 de Setembro de 2021 em Chapadão do Céu-GO: população, comerciantes e 
+**produtores** rurais saem em **carreata** em prol do Brasil! HASHTAG 
+#7desetembro_h HASHTAG #supremoeopovo_h HASHTAG #liberdade_h HASHTAG 
+#chapadãodocéu_h HASHTAG #goiás_h url 
+
+Lemmas in this text that loaded on the factor:
+
+carreata 
+produtor 

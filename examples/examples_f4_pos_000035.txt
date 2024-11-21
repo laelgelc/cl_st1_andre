@@ -1,0 +1,19 @@
+file = t001556
+date = 2022-11-18
+user = PaulodosAnjos06
+conversation = 1235799408236810240
+URL = https://twitter.com/PaulodosAnjos06/status/1593699968086310912
+
+word count = 21
+words loading = 1
+factor score = 2
+
+Charge de hoje. Traidores da Pátria. HASHTAG #jindeltcartunista_h HASHTAG 
+#brasil_h HASHTAG #brasilnasruas_h HASHTAG #conservador_h HASHTAG 
+#constantino_h HASHTAG #kimpaim_h HASHTAG #forcasarmadas_h HASHTAG 
+#jovempannews_h HASHTAG #brasilfoiroubado_h HASHTAG #stfvergonhadobrasil_h 
+HASHTAG #patriotas_h HASHTAG #elonmusk_h HASHTAG #liberdade_h url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade_h 

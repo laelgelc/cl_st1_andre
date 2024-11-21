@@ -1,0 +1,19 @@
+file = t000010
+date = 2022-11-22
+user = sonara_menezes
+conversation = 1584581183094013954
+URL = https://twitter.com/sonara_menezes/status/1595081545169375233
+
+word count = 29
+words loading = 2
+factor score = -1
+
+HASHTAG #supremoéopovo_h flag_brazil_e Com a costa brasileira totalmente 
+congestionada, caminhoneiros mostram ao mundo a força do **povo** brasileiro 
+**unido** contra os abusos da suprema Corte. HASHTAG #brasil_h HASHTAG 
+#liberdade_h HASHTAG #oladraonaosobearampa_h HASHTAG #sosforcasarmadas_h url 
+
+Lemmas in this text that loaded on the factor:
+
+povo (secondary)
+unir 

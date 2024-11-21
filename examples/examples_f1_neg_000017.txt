@@ -1,0 +1,17 @@
+file = t000041
+date = 2022-11-15
+user = SoniaSi81537418
+conversation = 1131630695510679552
+URL = https://twitter.com/SoniaSi81537418/status/1592475949433769985
+
+word count = 15
+words loading = 1
+factor score = -1
+
+BOMMMM DIAAAAAA POVO ABENÇOADO BOMMMM DIAAAAAA NAÇÃO VERDE AMARELO HASHTAG 
+#brasilacimadetudodeusacimadetodos_h HASHTAG #deuspatriafamilialiberdade_h 
+HASHTAG #supremoeopovo_h HASHTAG #liberdadenaoseganhasetoma_h url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdadenaoseganhasetoma_h 

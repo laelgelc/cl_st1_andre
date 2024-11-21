@@ -1,0 +1,21 @@
+file = t002078
+date = 2021-07-14
+user = Norma25714352
+conversation = 1256657036827295744
+URL = https://twitter.com/Norma25714352/status/1415117643695235073
+
+word count = 24
+words loading = 2
+factor score = -2
+
+@DeputadoFederal Uhuu tomara que seja o pontapé que vai fazer **romper** a 
+**corda** HASHTAG #somostodosbraganeto_h HASHTAG #danielsilveirapresopolitico_h 
+HASHTAG #liberdadeparadanielsilveira_h HASHTAG #xandaonacadeia_h HASHTAG 
+#impeachmentxandaourgente_h HASHTAG #danielsilveirasenador_h HASHTAG 
+#votoimpressoauditavelja_h HASHTAG #bolsonaro2022_h HASHTAG #cpidocirco_h 
+HASHTAG #cpidolula_h 
+
+Lemmas in this text that loaded on the factor:
+
+corda 
+romper 

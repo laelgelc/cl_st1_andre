@@ -1,0 +1,26 @@
+file = t000978
+date = 2021-07-08
+user = DoFerrarez
+conversation = 1297905603499761665
+URL = https://twitter.com/DoFerrarez/status/1413241206964899841
+
+word count = 47
+words loading = 8
+factor score = 9
+
+@STF_oficial STF só **defende** corruptos e vagabundos, não respeita o 
+**voto** de 57 milhões de brasileiros, ainda **tem** a **cara** de pau de 
+dizer que **defende** a **liberdade** de expressão. HIPÓCRITAS! O povo 
+**viu** o que vcs **fizeram** com a **liberdade** de expressão de alguns 
+**jornalistas** HASHTAG #stforganizacaocriminosa_h 
+
+Lemmas in this text that loaded on the factor:
+
+cara 
+defender 
+fazer 
+jornalista 
+liberdade 
+ter 
+ver 
+voto 

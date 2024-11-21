@@ -1,0 +1,26 @@
+file = t001444
+date = 2021-08-21
+user = rickfilosvital
+conversation = 379357528
+URL = https://twitter.com/rickfilosvital/status/1428962614881755137
+
+word count = 25
+words loading = 2
+factor score = -2
+
+@STF_oficial " Integrantes " , apaga que dá tempo. face_with_hand_over_mouth_e 
+face_with_hand_over_mouth_e face_with_hand_over_mouth_e shushing_face_e 
+shushing_face_e shushing_face_e **police_car_light_e** **police_car_light_e** 
+**police_car_light_e** oncoming_police_car_e oncoming_police_car_e 
+oncoming_police_car_e link_e Cadeia pra **todo** os usurpadores e tiranos 
+contra o povo. . . HASHTAG #stfrompeuademocracia_h HASHTAG 
+#liberdadedeexpressao_h HASHTAG #dia07vaisergigante_h Ajudem a subir essa aí : 
+HASHTAG #maioratodemocraticodahistoria_h flag_brazil_e flag_brazil_e 
+flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e flag_brazil_e 
+flag_brazil_e flag_brazil_e camera_with_flash_e camera_with_flash_e 
+camera_with_flash_e camera_with_flash_e 
+
+Lemmas in this text that loaded on the factor:
+
+police_car_light_e 
+todo 

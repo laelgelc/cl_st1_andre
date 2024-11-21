@@ -1,0 +1,20 @@
+file = t000839
+date = 2022-04-21
+user = app_viana
+conversation = 2221437865
+URL = https://twitter.com/app_viana/status/1517280656031719424
+
+word count = 41
+words loading = 2
+factor score = -1
+
+@randolfeap GRANDE DIA smiling_face_with_sunglasses_e Pelo visto, esse nem 
+dorme hoje! O feitiço virando contra o feiticeiro: Todos os fundamentos 
+baseados nos despachos do **semideus** togado e **tirano** Xandão! HASHTAG 
+#stforganizacaocriminosa_h Viva nossa LIBERDADE DE EXPRESSÃO! Viva a 
+DEMOCRACIA! Parabéns, Presidente @jairbolsonaro url 
+
+Lemmas in this text that loaded on the factor:
+
+semideus 
+tirano (secondary)

@@ -1,0 +1,19 @@
+file = t001456
+date = 2021-08-21
+user = fabiss1072
+conversation = 1117530851120693248
+URL = https://twitter.com/fabiss1072/status/1428906662530801664
+
+word count = 28
+words loading = 2
+factor score = 1
+
+@PastorMalafaia Parabéns pastor @PastorMalafaia pela iniciativa e coragem de 
+lutar pela democracia e **liberdade** de expressão. Tem o meu **respeito** por 
+não se omitir como cidadão. folded_hands_e flag_brazil_e HASHTAG 
+#stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade (secondary)
+respeito 

@@ -1,0 +1,17 @@
+file = t001453
+date = 2021-08-21
+user = alepessoal
+conversation = 120160945
+URL = https://twitter.com/alepessoal/status/1428919777905553415
+
+word count = 21
+words loading = 2
+factor score = 1
+
+Dia 7 de setembro, é dia de exigir a nossa **liberdade** de expressão e o 
+**respeito** a constituição. HASHTAG #stfrompeuademocracia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdade (secondary)
+respeito 

@@ -1,0 +1,21 @@
+file = t000020
+date = 2022-11-19
+user = sebas_teao
+conversation = 123010785
+URL = https://twitter.com/sebas_teao/status/1594066313068314624
+
+word count = 31
+words loading = 1
+factor score = -1
+
+**Raja** Gabaglia agora! green_heart_e flag_brazil_e Contra a podridão do 
+judiciário e elites corruptas! Por HASHTAG #deus_h, HASHTAG #patria_h, HASHTAG 
+#família_h e HASHTAG #liberdade_h! dagger_e latin_cross_e. HASHTAG 
+#brazilwasstolen_h flag_brazil_e flag_brazil_e HASHTAG #fraude_h HASHTAG 
+#braziliansprings_h HASHTAG #exercito_h HASHTAG #fraude_h HASHTAG #protesto_h 
+HASHTAG #eleicoes2020_h HASHTAG #resistencia_h HASHTAG #sosffaa_h HASHTAG 
+#supremoéopovo_h HASHTAG #caminhoneiros_h HASHTAG #usa_h url 
+
+Lemmas in this text that loaded on the factor:
+
+rajar 

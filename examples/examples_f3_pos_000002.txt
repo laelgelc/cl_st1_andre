@@ -1,0 +1,28 @@
+file = t001477
+date = 2021-08-20
+user = danizinha_8282
+conversation = 1668930668
+URL = https://twitter.com/danizinha_8282/status/1428842935852969991
+
+word count = 37
+words loading = 8
+factor score = 9
+
+Não é por Bolsonaro Não é por Você Não é pra um estado É PARA TODOS e 
+PARA O BRASIL **flag_brazil_e** Deus é Justiça e Vai Abençoar essa Nação 
+folded_hands_medium-light_skin_tone_e ☆ Ordem e Progresso ☆ 
+**green_heart_e** **yellow_heart_e** **blue_heart_e** **white_heart_e** 
+**green_heart_e** **yellow_heart_e** **blue_heart_e** **white_heart_e** 
+**green_heart_e** HASHTAG #brasil_h HASHTAG #liberdade_h HASHTAG 
+#stfrompeuademocracia_h HASHTAG #dia7vaisergigante_h url 
+
+Lemmas in this text that loaded on the factor:
+
+blue_heart_e 
+dia7vaisergigante_h 
+flag_brazil_e 
+folded_hands_medium 
+green_heart_e 
+light_skin_tone_e 
+white_heart_e 
+yellow_heart_e 

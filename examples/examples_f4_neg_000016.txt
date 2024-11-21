@@ -1,0 +1,19 @@
+file = t000769
+date = 2022-09-21
+user = e_fera22
+conversation = 1555152056591306755
+URL = https://twitter.com/e_fera22/status/1572620698052399106
+
+word count = 20
+words loading = 3
+factor score = -2
+
+Ja que tá liberado o ladrão **chamar** BOLSONARO de **genocida** , então 
+@STF_oficial HASHTAG #stforganizacaocriminosa_h **tbm** tá valendo, é 
+liberdade de expressão. 
+
+Lemmas in this text that loaded on the factor:
+
+chamar (secondary)
+genocida 
+tbm 

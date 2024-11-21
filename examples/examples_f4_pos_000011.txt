@@ -1,0 +1,20 @@
+file = t001808
+date = 2021-08-15
+user = Danapinho
+conversation = 102674079
+URL = https://twitter.com/Danapinho/status/1426711762557149192
+
+word count = 11
+words loading = 4
+factor score = 3
+
+O **poder** **emana** do **povo** **flag_brazil_e** HASHTAG 
+#liberdadedeopiniao_h HASHTAG #cfésoberana_h HASHTAG #stfvergonhamundial_h 
+HASHTAG #dia07vaisergigante_h url 
+
+Lemmas in this text that loaded on the factor:
+
+emanar 
+flag_brazil_e (secondary)
+poder 
+povo 

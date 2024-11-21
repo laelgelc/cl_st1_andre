@@ -1,0 +1,18 @@
+file = t000132
+date = 2021-09-09
+user = DolmiroJ
+conversation = 1162830835978002434
+URL = https://twitter.com/DolmiroJ/status/1435800536205479936
+
+word count = 42
+words loading = 0
+factor score = -1
+
+@STF_oficial Ministro Fux disse " ninguém fechará esta Corte " . E qm disse 
+em fechar o Supremo? O povo apenas pede q não hajam mais decisões 
+inconstitucionais e abusos contra a liberdade de expressão. É assim q as 
+narrativas são alimentadas! HASHTAG #supremoeopovo_h HASHTAG 
+#stfrompeuademocracia_h HASHTAG #stfvergonha_h 
+
+Lemmas in this text that loaded on the factor:
+
