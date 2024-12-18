@@ -1,0 +1,24 @@
+file = t001481
+date = 2021-08-20
+user = Geyse2314
+conversation = 1068507582954909697
+URL = https://twitter.com/Geyse2314/status/1428839399358443522
+
+word count = 23
+words loading = 8
+factor score = 8
+
+No Brasil quem é de **direita** está sofrendo **censura** nas **redes** 
+**sociais** . . . como **fica** nossa **liberdade** de **expressão** garantida 
+na **constituição** ? ? ? HASHTAG #stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+censura
+constituição
+direita
+expressão
+ficar
+liberdade
+rede
+social

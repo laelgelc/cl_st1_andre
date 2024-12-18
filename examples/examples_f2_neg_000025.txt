@@ -1,0 +1,19 @@
+file = t000946
+date = 2021-08-18
+user = MinionOpressor
+conversation = 1151219535841828864
+URL = https://twitter.com/MinionOpressor/status/1427849944078163970
+
+word count = 44
+words loading = 2
+factor score = -1
+
+Todos os brasileiros estão perdendo com o autoritarismo que o STF vem impondo, 
+o STF tá legislando e isso tá errado. Se não nos **unirmos** para ir contra 
+este autoritarismo, perderemos a liberdade de expressão. Acorda **povo** , o 
+inimigo é o @STF_oficial. . . HASHTAG #stforganizacaocriminosa_h url 
+
+Lemmas in this text that loaded on the factor:
+
+povo (secondary)
+unir

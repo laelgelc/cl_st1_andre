@@ -1,0 +1,21 @@
+file = t000309
+date = 2021-08-20
+user = Walkiri74219538
+conversation = 1128507307510378496
+URL = https://twitter.com/Walkiri74219538/status/1428587239152439301
+
+word count = 5
+words loading = 5
+factor score = 5
+
+HASHTAG #liberdadenaoseganhasetoma_h HASHTAG #supremoéopovo_h HASHTAG 
+#0709euvou_h **flag_brazil_e** **yellow_heart_e** **green_heart_e** 
+**white_heart_e** **blue_heart_e** **flag_brazil_e** url 
+
+Lemmas in this text that loaded on the factor:
+
+blue_heart_e
+flag_brazil_e
+green_heart_e
+white_heart_e
+yellow_heart_e

@@ -1,0 +1,19 @@
+file = t001724
+date = 2022-03-18
+user = VaniWadaJapan
+conversation = 1465257208954830849
+URL = https://twitter.com/VaniWadaJapan/status/1504904000709160961
+
+word count = 29
+words loading = 3
+factor score = 1
+
+@taoquei1 @jairbolsonaro devolva o **livro** da Constituição que a Ministra 
+Rosa Weber te deu na sua posse urgente, **liberdade** de **expressão** é 
+cláusula pétrea, ditadura da Toga HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+liberdade (secondary)
+livro

@@ -1,0 +1,19 @@
+file = t000627
+date = 2020-05-29
+user = luizpalhota
+conversation = 136804269
+URL = https://twitter.com/luizpalhota/status/1266326640994537472
+
+word count = 44
+words loading = 1
+factor score = -1
+
+@Madalen24653040 Evitando perseguições da suprema corte podemos mudar o 
+HASHTAG #cabeçadepiroca_h para CP ou soletrando, pelo **código** 
+internacional, CHARLIE PAPA. Fica assim: Ministro Cabeça de P. . . . . digo 
+CHARLIE PAPA; Caro CP, meu direito começa onde termina o seu, a recíproca 
+não é fake! . HASHTAG #liberdade_h 
+
+Lemmas in this text that loaded on the factor:
+
+código

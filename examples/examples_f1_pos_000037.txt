@@ -1,0 +1,25 @@
+file = t001232
+date = 2021-09-07
+user = RejaneAzuos
+conversation = 1386704647168081921
+URL = https://twitter.com/RejaneAzuos/status/1435316481496133635
+
+word count = 23
+words loading = 8
+factor score = 8
+
+HASHTAG #stfcrasheddemocracyinbrazil_h HASHTAG #stfrompeuademocracia_h HASHTAG 
+#independenciadobrasil_h O povo exige **liberdade** de **expressão** , de 
+**opinião** , de **pensamento** , **queremos** uma **DEMOCRACIA** **LIVRE** DA 
+**DITADURA** DO JUDICIÁRIO. url 
+
+Lemmas in this text that loaded on the factor:
+
+democracia
+ditadura
+expressão
+liberdade
+livre
+opinião
+pensamento
+querer

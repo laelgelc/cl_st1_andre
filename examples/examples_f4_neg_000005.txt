@@ -1,0 +1,21 @@
+file = t000538
+date = 2021-02-17
+user = jrfernandesof
+conversation = 2890671269
+URL = https://twitter.com/jrfernandesof/status/1362050821219827712
+
+word count = 37
+words loading = 3
+factor score = -3
+
+**Imunidade** **parlamentar** só é válida se vc matar seu cônjuge. Fora 
+isso, é crime, é atentado à democracia e ao estado democrático ede direito. 
+Exercer liberdade de expressão prohibited_e **PRESO** Matar o marido 
+check_mark_button_e LIVRE HASHTAG #stfvergonhamundial_h HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #alexandredemoraesnacadeia_h 
+
+Lemmas in this text that loaded on the factor:
+
+imunidade
+parlamentar
+preso

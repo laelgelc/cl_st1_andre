@@ -1,0 +1,20 @@
+file = t001378
+date = 2021-08-22
+user = Uaiseilah
+conversation = 97724596
+URL = https://twitter.com/Uaiseilah/status/1429591934662811651
+
+word count = 37
+words loading = 3
+factor score = 1
+
+@alvarodias_ Eu expresso preocupação com a omissão dos senadores como o povo 
+brasileiro, com sua missão de colocar freio nos abusos da corte **máxima** e 
+com as constantes agressões á **liberdade** de **expressão** . vocês são 
+cúmplices HASHTAG #stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+grande
+liberdade (secondary)

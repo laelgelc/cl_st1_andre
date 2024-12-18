@@ -1,0 +1,19 @@
+file = t000758
+date = 2022-10-19
+user = juniorBmx
+conversation = 35352811
+URL = https://twitter.com/juniorBmx/status/1582568472101662720
+
+word count = 34
+words loading = 1
+factor score = -1
+
+@carmelonetobr O problema é bem mais " em baixo " . . . . Em baixo do pano, 
+dos malotes de dinheiros, Essa quadrilha de bandidos estão **unidos** para 
+acabar com a liberdade de expressão HASHTAG #esquerdacriminosa_h HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #alexandremoraesditador_h HASHTAG 
+#lulabandido_h 
+
+Lemmas in this text that loaded on the factor:
+
+unir

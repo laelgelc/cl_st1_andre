@@ -1,0 +1,18 @@
+file = t000195
+date = 2021-09-07
+user = Si15176878
+conversation = 1414190843469209604
+URL = https://twitter.com/Si15176878/status/1435278021095673857
+
+word count = 26
+words loading = 1
+factor score = -1
+
+@Estadao Conta aí que acharam com ele brochinho do che guevara e " eu sou 
+antifascista " , conta, **produtores** de FAKE NEWS? ? HASHTAG 
+#setedesetembro_h HASHTAG #liberdade_h HASHTAG #tocontigobolsonaro_h HASHTAG 
+#brasilia_h HASHTAG #supremoeopovo_h 
+
+Lemmas in this text that loaded on the factor:
+
+produtor

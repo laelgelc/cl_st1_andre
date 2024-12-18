@@ -1,0 +1,19 @@
+file = t001959
+date = 2022-10-19
+user = EdsonWRodrigues
+conversation = 19294943
+URL = https://twitter.com/EdsonWRodrigues/status/1582552081726332930
+
+word count = 32
+words loading = 3
+factor score = 1
+
+Você certame te ouviu falar da DITADURA MILITAR, não é verdade? A **maior** 
+mentira dos históricos tas Fabianos. Agora você sabe o que é retirar a sua 
+**liberdade** de **expressão** . HASHTAG #tsevergonhanacional_h 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+grande
+liberdade (secondary)

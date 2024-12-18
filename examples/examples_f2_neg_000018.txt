@@ -1,0 +1,18 @@
+file = t000755
+date = 2022-10-20
+user = RodrigoMontro1
+conversation = 1578444475885666307
+URL = https://twitter.com/RodrigoMontro1/status/1582903997563691008
+
+word count = 25
+words loading = 1
+factor score = -1
+
+Demorou mas **chegou** , **chegou** por quem? HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #lula_h um vadio, e o pelo PT ( Partido das 
+Trevas ) . HASHTAG #liberdade_h HASHTAG #imprenssa_h HASHTAG #imprensalivre_h 
+HASHTAG #censura_h @JovemPanNews @brasilparalelo url 
+
+Lemmas in this text that loaded on the factor:
+
+chegar

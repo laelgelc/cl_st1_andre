@@ -1,0 +1,20 @@
+file = t001576
+date = 2022-11-24
+user = AdilsonDivina
+conversation = 1513553323164684294
+URL = https://twitter.com/AdilsonDivina/status/1595618236028035072
+
+word count = 40
+words loading = 3
+factor score = 2
+
+url **POVO** BRASILEIRO COM ESTE APOIO TEMOS QUE SER FORTES! @taoquei1 
+@AdrillesRJorge @Rconstantino enfim são centenas de patriotas **lutando** pela 
+Democracia, Liberdade de expressão, todos contra a Ditadura da Toga do Xerife 
+HASHTAG #stfvergonhamundial_h Deus **Pátria** Familia e Liberdade! url 
+
+Lemmas in this text that loaded on the factor:
+
+lutar (secondary)
+povo
+pátria

@@ -1,0 +1,21 @@
+file = t001259
+date = 2021-09-06
+user = AngelaVettorel1
+conversation = 1364246170361561088
+URL = https://twitter.com/AngelaVettorel1/status/1434922224738357254
+
+word count = 18
+words loading = 2
+factor score = 2
+
+Eita povo patriota! ! ! Que orgulho do meu Brasil! **flag_brazil_e** 
+raising_hands_medium-light_skin_tone_e HASHTAG #dia7vaisergigantesco_h HASHTAG 
+#liberdadenaoseganhasetoma_h HASHTAG #votoeletronicoauditavel_h HASHTAG 
+#contagempublicadosvotos_h HASHTAG #stfrompeuademocracia_h HASHTAG 
+#criminalizaçãodocomunismo_h HASHTAG #criminalizacaoforodesaopaulo_h HASHTAG 
+#bolsonaroreeleito2022_h url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+light_skin_tone_e

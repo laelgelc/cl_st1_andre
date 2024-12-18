@@ -1,0 +1,20 @@
+file = t001943
+date = 2022-10-20
+user = AldemirBertulin
+conversation = 1562077804816113667
+URL = https://twitter.com/AldemirBertulin/status/1582899933405122560
+
+word count = 40
+words loading = 3
+factor score = 1
+
+@heytauat @SamPancher Está perguntando a **respeito** da concessão da HASHTAG 
+#globolixoepetista_h? Eu também não acho justo que eles tenham esse direito e 
+as outras emissoras não! Mas mentira ou não desinformação ou não eu apoio 
+a **liberdade** de **expressão** . HASHTAG #tsevergonhanacional_h 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+liberdade (secondary)
+respeito

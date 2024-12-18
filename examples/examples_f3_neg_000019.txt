@@ -1,0 +1,19 @@
+file = t000271
+date = 2021-09-06
+user = SCamponesa
+conversation = 1130851297509273600
+URL = https://twitter.com/SCamponesa/status/1434984350538420224
+
+word count = 38
+words loading = 1
+factor score = -1
+
+O misterioso caso do ministro ONIPRESENTE, que mesmo ausente denunciou a 
+liberdade de expressão de brasileiros, se valendo da ONIPOTÊNCIA. Falta pouco 
+para se tornar um deus. Por enquanto, ainda e apenas, um **semideus** . HASHTAG 
+#supremoeopovo_h HASHTAG #dia07vaisergigantesco_h HASHTAG 
+#dia07vaisergigantesco_h 
+
+Lemmas in this text that loaded on the factor:
+
+semideus

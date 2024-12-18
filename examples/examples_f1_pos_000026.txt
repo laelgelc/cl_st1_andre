@@ -1,0 +1,26 @@
+file = t001747
+date = 2021-11-19
+user = AdrianoB30
+conversation = 1355947423
+URL = https://twitter.com/AdrianoB30/status/1461763242657726475
+
+word count = 43
+words loading = 8
+factor score = 8
+
+@STF_oficial KKKKKK. **Liberdade** de **expressão** desde que não **chamem** 
+os corruptos do STF de CORRUPTOS. Vcs são canalhas, vcs propagam a 
+**ditadura** da mordaça contra o **cidadão** de bem, lamentávelmente vcs se 
+prestam ao trabalho de **defender** **bandidos** , vcs são uma **vergonha** . 
+. . HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+bandido
+chamar
+cidadão
+defender
+ditadura
+expressão
+liberdade
+vergonha

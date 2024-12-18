@@ -1,0 +1,18 @@
+file = t000281
+date = 2021-09-04
+user = JBBJunior
+conversation = 48072743
+URL = https://twitter.com/JBBJunior/status/1434186799279222785
+
+word count = 6
+words loading = 2
+factor score = 2
+
+**flag_brazil_e** right_arrow_e HASHTAG #todopoderemanadopovo_h HASHTAG 
+#supremoéopovo_h HASHTAG #liberdadedeexpressão_h HASHTAG #dia7vaisergigante_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+dia7vaisergigante_h
+flag_brazil_e

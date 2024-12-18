@@ -1,0 +1,18 @@
+file = t000274
+date = 2021-09-06
+user = GeneralGirao
+conversation = 841700087143288832
+URL = https://twitter.com/GeneralGirao/status/1434836856697458691
+
+word count = 37
+words loading = 1
+factor score = -1
+
+O misterioso caso do ministro ONIPRESENTE, que mesmo ausente denunciou a 
+liberdade de expressão de brasileiros, se valendo da ONIPOTÊNCIA. Falta pouco 
+para se tornar um deus. Por enquanto, ainda e apenas, um **semideus** . HASHTAG 
+#supremoeopovo_h HASHTAG #dia07vaisergigantesco_h 
+
+Lemmas in this text that loaded on the factor:
+
+semideus

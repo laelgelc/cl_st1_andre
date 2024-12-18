@@ -1,0 +1,20 @@
+file = t000276
+date = 2021-09-05
+user = MarcioTurra
+conversation = 116298289
+URL = https://twitter.com/MarcioTurra/status/1434474202141270018
+
+word count = 31
+words loading = 3
+factor score = 3
+
+Deus, **Pátria** e Família. Você é contra? Teu **dia** de se manifestar 
+não é **dia** 07 . Melhor " ficar em casa " . **Manifestação** é pelo fim 
+da HASHTAG #ditaduradatoga_h, pela HASHTAG #liberdade_h. HASHTAG 
+#supremoéopovo_h HASHTAG #dia07vaisergigantesco_h 
+
+Lemmas in this text that loaded on the factor:
+
+dia
+manifestação
+pátria

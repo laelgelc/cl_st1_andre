@@ -1,0 +1,19 @@
+file = t000549
+date = 2021-02-17
+user = Paty53331836
+conversation = 1356598578345611265
+URL = https://twitter.com/Paty53331836/status/1361984369620041728
+
+word count = 38
+words loading = 2
+factor score = -1
+
+@Rconstantino Nenhuma das opções, são todas quadrilhas organizadas, e o pior 
+agora a CF, não nos garante mais o direito de liberdade de expressão. . Se o 
+Deputado foi **preso** , **imagina** Eu uma simples Tia do Zap 
+face_screaming_in_fear_e HASHTAG #alexandredemoraesnacadeia_h 
+
+Lemmas in this text that loaded on the factor:
+
+imaginar
+prender (secondary)

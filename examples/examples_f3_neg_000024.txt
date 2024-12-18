@@ -1,0 +1,19 @@
+file = t000482
+date = 2022-11-06
+user = DanteTsukuyomi
+conversation = 1587309983707938822
+URL = https://twitter.com/DanteTsukuyomi/status/1589052334910636034
+
+word count = 23
+words loading = 2
+factor score = -1
+
+Estão querendo **impor** uma **ditadura** no Brasil e não é de hoje, SOS 
+Forças armadas @exercitooficial HASHTAG #sosffaa_h HASHTAG #naoaocomunismo_h 
+HASHTAG #ptnuncamais_h HASHTAG #alexandredemoraesnacadeia_h HASHTAG 
+#liberdadedeexpressao_h url 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura (secondary)
+impor

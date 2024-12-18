@@ -1,0 +1,20 @@
+file = t000149
+date = 2021-09-08
+user = AlineBack1
+conversation = 377640504
+URL = https://twitter.com/AlineBack1/status/1435415538558197761
+
+word count = 17
+words loading = 3
+factor score = -2
+
+@jairbolsonaro Já **raiou** a liberdade No **horizonte** do Brasil! ! HASHTAG 
+#liberdadedeexpressao_h HASHTAG #euautorizopresidentebolsonaro_h HASHTAG 
+#bolsonaroate2026_h HASHTAG #democracia_h HASHTAG #supremoeopovo_h HASHTAG 
+#bolsonaroorgulhodobrasil_h url 
+
+Lemmas in this text that loaded on the factor:
+
+bolsonaroorgulhodobrasil_h
+horizonte
+raiar

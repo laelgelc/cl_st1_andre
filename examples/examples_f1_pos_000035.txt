@@ -1,0 +1,26 @@
+file = t001293
+date = 2021-09-02
+user = AnaNichel
+conversation = 814437851442151424
+URL = https://twitter.com/AnaNichel/status/1433513207503667200
+
+word count = 42
+words loading = 9
+factor score = 8
+
+Só **existe** **democracia** onde a **liberdade** de **expressão** é 
+garantida, onde a **corte** **suprema** respeita a **Constituição** e aplica 
+as leis igualmente para todos. O STF acabou com nossa **democracia** e cobra do 
+povo **respeito** ao que eles destruíram. HASHTAG #stfrompeuademocracia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+constituição
+corte
+democracia
+existir
+expressão
+liberdade
+respeito (secondary)
+stfrompeuademocracia_h
+supremo

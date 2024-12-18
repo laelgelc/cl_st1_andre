@@ -1,0 +1,21 @@
+file = t000220
+date = 2021-09-07
+user = BielBrook
+conversation = 1294083664742158338
+URL = https://twitter.com/BielBrook/status/1435236718802784264
+
+word count = 35
+words loading = 3
+factor score = 3
+
+@CNNBrasil Claro né ! ! Vcs mandaram o povo ficar em casa! Esqueceu? ? O 
+Brasil acordou! ! ! Supremo é o Povo, a Liberdade, a Fé , a Família. Deus 
+**abençoe** o Brasil **raising_hands_e** **flag_brazil_e** HASHTAG 
+#liberdade_h HASHTAG #patria_h HASHTAG #7desetpelaliberdade_h HASHTAG 
+#supremoeopovo_h HASHTAG #brasil_h HASHTAG #bolsonaroorgulhodobrasil_h 
+
+Lemmas in this text that loaded on the factor:
+
+abençoar
+flag_brazil_e
+raising_hands_e

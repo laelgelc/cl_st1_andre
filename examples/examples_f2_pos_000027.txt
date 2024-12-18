@@ -1,0 +1,18 @@
+file = t001850
+date = 2022-11-05
+user = jperfect_bg
+conversation = 252683598
+URL = https://twitter.com/jperfect_bg/status/1589035072598183937
+
+word count = 36
+words loading = 1
+factor score = 1
+
+Estão censurando nossas postagens, a censura nunca irá nos vencer o poder 
+emana do POVO, somos **maiores** que qualquer instituição, temos o direito de 
+livre pensamento, não estamos em uma ditadura HASHTAG #censuranao_h HASHTAG 
+#tseorganizacaocriminosa_h HASHTAG #brazilwasstolen_h url 
+
+Lemmas in this text that loaded on the factor:
+
+grande

@@ -1,0 +1,19 @@
+file = t000616
+date = 2020-07-24
+user = BR100Corrupto
+conversation = 1267285163563724801
+URL = https://twitter.com/BR100Corrupto/status/1286702202564771841
+
+word count = 48
+words loading = 1
+factor score = -1
+
+Mais uma da ditatoga? ! Não sou nada fã do @blogdojefferson, pois sou 
+defensora ferrenha de uma **pena** perpétua p / político corrupto. Mas não 
+concordo c / o q HASHTAG #cabecadeovo_h está fazendo c / nossa liberdade de 
+expressão. Temos a obrigação moral e civil de irmos p / Brasília, POR NÓS! 
+flexed_biceps_e 
+
+Lemmas in this text that loaded on the factor:
+
+pena

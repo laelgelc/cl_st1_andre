@@ -1,0 +1,28 @@
+file = t001552
+date = 2018-12-04
+user = Mi_apenas
+conversation = 950931246506528768
+URL = https://twitter.com/Mi_apenas/status/1070011654195347456
+
+word count = 44
+words loading = 9
+factor score = 9
+
+@_DeFeCe @diegoOficciaL **Querem** soltar corruptos e marginais, mas 
+**prender** brasileiro, **cidadão** de bem em seu **direito** de 
+**expressão** , q educadamente **falou** ao ministro que **tem** **vergonha** 
+do STF. **Liberdade** de **expressão** só para o chefe **preso** em Curitiba! 
+Isto é uma **vergonha** ! HASHTAG #stfvergonha_h HASHTAG 
+#stfvergonhanacional_h 
+
+Lemmas in this text that loaded on the factor:
+
+cidadão
+direito
+expressão
+falar
+liberdade
+prender
+querer
+ter
+vergonha

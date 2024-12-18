@@ -1,0 +1,19 @@
+file = t001845
+date = 2022-11-26
+user = eu_alanssilva
+conversation = 1584132990778720256
+URL = https://twitter.com/eu_alanssilva/status/1596317192060272640
+
+word count = 24
+words loading = 2
+factor score = -2
+
+Vai acontecer e já está acontecendo! ! ! Vai dar muita gente **presa** , mais 
+cedo do que vocês **imaginam** ! ! ! Aguardem! ! ! HASHTAG #brazil_h HASHTAG 
+#brasil_h HASHTAG #liberdade_h HASHTAG #tseorganizacaocriminosa_h HASHTAG 
+#stfvergonhadobrasil_h 
+
+Lemmas in this text that loaded on the factor:
+
+imaginar
+preso

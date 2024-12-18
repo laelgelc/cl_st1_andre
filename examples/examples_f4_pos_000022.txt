@@ -1,0 +1,21 @@
+file = t000210
+date = 2021-09-07
+user = LellyDeMaria
+conversation = 4156490237
+URL = https://twitter.com/LellyDeMaria/status/1435247565252046851
+
+word count = 31
+words loading = 4
+factor score = 3
+
+**HASHTAG** #liberdadedeexpressão_h yellow_heart_e green_heart_e 
+yellow_heart_e green_heart_e NOSSO GRITO É POR LIBERDADE ​ " A paz queremos 
+com fervor, A guerra só nos causa dor, Porém, se a **Pátria** amada For um 
+**dia** ultrajada **Lutaremos** sem temor! " **HASHTAG** #supremoeopovo_h 
+
+Lemmas in this text that loaded on the factor:
+
+dia
+hashtag
+lutar (secondary)
+pátria

@@ -1,0 +1,19 @@
+file = t001359
+date = 2021-08-24
+user = OlgaFotografa
+conversation = 849667580650508288
+URL = https://twitter.com/OlgaFotografa/status/1429965109212893184
+
+word count = 32
+words loading = 2
+factor score = 2
+
+@viniciussexto @MarcuseJe Temos que limpar todos que se levantam contra o 
+**Povo** , contra as liberdades individuais e contra a liberdade de expressão 
+e **manifestação** HASHTAG #stfrompeuademocracia_h e @RomeuZema não compre 
+essa briga. 
+
+Lemmas in this text that loaded on the factor:
+
+manifestação
+povo

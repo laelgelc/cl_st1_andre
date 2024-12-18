@@ -1,0 +1,20 @@
+file = t000793
+date = 2022-07-26
+user = PauloAr05191546
+conversation = 1271800845772914688
+URL = https://twitter.com/PauloAr05191546/status/1551980693458231297
+
+word count = 23
+words loading = 4
+factor score = 2
+
+@senadorhumberto Vampirão, está **lendo** **livro** errado. O CHEFE, E no seu 
+caso com o HASHTAG #stforganizacaocriminosa_h, vão dizer que e **liberdade** 
+de **expressão** . 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+ler
+liberdade (secondary)
+livro

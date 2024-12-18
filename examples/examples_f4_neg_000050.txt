@@ -1,0 +1,18 @@
+file = t000834
+date = 2022-04-22
+user = FernandoFratoni
+conversation = 1264231861234081792
+URL = https://twitter.com/FernandoFratoni/status/1517464302168461312
+
+word count = 34
+words loading = 1
+factor score = -1
+
+Você **petista** ou isentão, agradeça ao Bolsonaro por garantir seu direito 
+de falar M … , até mesmo para aqueles que desejam sua morte. Tá aí o " 
+ditador " protegendo a liberdade de expressão! HASHTAG #stfcorrupto_h HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #stfinimigodobrasil_h 
+
+Lemmas in this text that loaded on the factor:
+
+petista

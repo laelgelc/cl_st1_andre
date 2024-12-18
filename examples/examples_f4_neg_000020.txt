@@ -1,0 +1,19 @@
+file = t001076
+date = 2022-10-19
+user = Caryquiter
+conversation = 153086802
+URL = https://twitter.com/Caryquiter/status/1582849669578690562
+
+word count = 35
+words loading = 2
+factor score = -2
+
+Estamos vivendo novamente a volta da censura no Brasil. Cercear o **meios** de 
+**comunicação** é o primeiro ato de Ditaduras. Quem braveja democracia ao 4 
+ventos na verdade deseja o contrário. HASHTAG #naoacensuradopt_h HASHTAG 
+#liberdadedeexpressao_h HASHTAG #stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+comunicação
+meio

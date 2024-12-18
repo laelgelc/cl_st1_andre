@@ -1,0 +1,16 @@
+file = t001864
+date = 2022-10-28
+user = livreexpressao2
+conversation = 1286835117139341317
+URL = https://twitter.com/livreexpressao2/status/1586035784708415495
+
+word count = 11
+words loading = 1
+factor score = 1
+
+A quantas **aberrações** mais teremos que assistir? ? ? HASHTAG 
+#tseorganizacaocriminosa_h HASHTAG #liberdadedeexpressao_h url 
+
+Lemmas in this text that loaded on the factor:
+
+aberração

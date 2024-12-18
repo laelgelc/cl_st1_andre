@@ -1,0 +1,19 @@
+file = t001537
+date = 2020-05-21
+user = katiabrigitte
+conversation = 264634256
+URL = https://twitter.com/katiabrigitte/status/1263609295658258433
+
+word count = 45
+words loading = 1
+factor score = -1
+
+@marcelvanhattem Onde? O STF legisla a muito tempo e não vejo o congresso 
+Nacional se manifestar em relação a isso Agora a nossa liberdade de 
+expressão e escolha está em cheque, inclusive nosso direito de usar um ou 
+outro medicamento **Chega** ! ! HASHTAG #stfvergonha_h HASHTAG #stfnaolegisla_h 
+HASHTAG #euapoiobolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegar

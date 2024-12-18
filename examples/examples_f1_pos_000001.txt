@@ -1,0 +1,31 @@
+file = t001994
+date = 2022-11-17
+user = ramospbcg
+conversation = 4131124282
+URL = https://twitter.com/ramospbcg/status/1593169233793499136
+
+word count = 49
+words loading = 13
+factor score = 12
+
+@flaviocostaf **Tenho** certeza que os golpistas **vai** **falar** em 
+**liberdade** de **expressão** , mas onde **fica** o separatismo, a xenofobia 
+o **direito** de **ir** e **vir** diante de tais atrocidades **cometidos** 
+pelos que **querem** a volta da **ditadura** se **temos** um **presidente** 
+eleito pelo **voto** popular? HASHTAG #xandao_h tá certo 
+
+Lemmas in this text that loaded on the factor:
+
+cometer (secondary)
+direito
+ditadura
+expressão
+falar
+ficar
+ir
+liberdade
+presidente
+querer
+ter
+vir
+voto

@@ -1,0 +1,30 @@
+file = t001712
+date = 2022-03-20
+user = amartins1960
+conversation = 851858450091057152
+URL = https://twitter.com/amartins1960/status/1505579049506197504
+
+word count = 39
+words loading = 12
+factor score = 12
+
+Que **bom** **ver** @JorgePontual a **favor** da **liberdade** de 
+**expressão** e a **cara** dos **jornalistas** militantes da @GloboNews não 
+**tem** preço, HASHTAG #stfvergonhamundial_h Cadê o @SenadoFederal cadê 
+@rpsenador **façam** **justiça** pedindo o **Impeachment** de Alexandre de 
+IMORAES Já ! ! url 
+
+Lemmas in this text that loaded on the factor:
+
+bom
+cara
+expressão
+favor
+fazer
+impeachment
+jornalista
+justiça
+liberdade
+stfvergonhamundial_h
+ter
+ver

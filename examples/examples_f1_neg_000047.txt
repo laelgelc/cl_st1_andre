@@ -1,0 +1,19 @@
+file = t000720
+date = 2022-11-12
+user = wiskton
+conversation = 191255810
+URL = https://twitter.com/wiskton/status/1591505243711631361
+
+word count = 14
+words loading = 1
+factor score = -1
+
+HASHTAG #brasil_h HASHTAG #brazil_h HASHTAG #liberdade_h HASHTAG 
+#liberdadedeexpressão_h HASHTAG #brazilwasstolen_h HASHTAG 
+#stfvergonhanacional_h HASHTAG #stforganizacaocriminosa_h HASHTAG 
+#stfditadoresdetoga_h HASHTAG #lulaladrãonacadeia_h HASHTAG #lulaladrao_h 
+HASHTAG #xandasquistao_h HASHTAG #sosffaa_h url 
+
+Lemmas in this text that loaded on the factor:
+
+sosffaa_h

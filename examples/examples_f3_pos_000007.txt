@@ -1,0 +1,24 @@
+file = t001101
+date = 2022-08-27
+user = belle_grillo
+conversation = 1084484666365825025
+URL = https://twitter.com/belle_grillo/status/1563521235862302723
+
+word count = 22
+words loading = 5
+factor score = 4
+
+" O que é Democracia senão Liberdade de Expressão. " ! ? ? @SenadoFederal 
+**sos_button_e** **flag_brazil_e** HASHTAG #transparencia_h **sparkles_e** 
+**purple_heart_e** **flag_brazil_e** HASHTAG #democraciaemfrangalhos_h 
+**sos_button_e** **flag_brazil_e** HASHTAG #stfrompeuademocracia_h HASHTAG 
+#brasilacordou_h TÁ **VENDO** TD É LASTIMÁVEL, DESCONSERTANTE, DESESPERADOR! 
+! ! ! **sos_button_e** **purple_heart_e** **flag_brazil_e** url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+purple_heart_e
+sos_button_e
+sparkles_e
+ver (secondary)

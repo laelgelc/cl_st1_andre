@@ -1,0 +1,21 @@
+file = t001236
+date = 2021-09-07
+user = RighettiSR
+conversation = 54428999
+URL = https://twitter.com/RighettiSR/status/1435307609922342912
+
+word count = 34
+words loading = 4
+factor score = 2
+
+@RadioSavana Lutamos pela **liberdade** de **expressão** e **respeito** a 
+ordem e à CF88 . Os ocupantes do **stf** contrariam a regra para soltar 
+bandidos e traficantes, e prendem o cidadão de bem. HASHTAG 
+#stfrompeuademocracia_h HASHTAG #stfinimigodopovobrasileiro_h 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+liberdade (secondary)
+respeito
+stf

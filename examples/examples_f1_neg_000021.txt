@@ -1,0 +1,20 @@
+file = t000113
+date = 2022-05-01
+user = sergiocjk
+conversation = 238120825
+URL = https://twitter.com/sergiocjk/status/1520808345887727618
+
+word count = 14
+words loading = 1
+factor score = -1
+
+Paulista Bombando HASHTAG #liberdade_h HASHTAG #1demaio_h HASHTAG 
+#1demaioeuvou_h HASHTAG #nãofiqueemcasa_h HASHTAG #todosdeverdeeamarelo_h 
+HASHTAG #supremoéopovo_h HASHTAG #votoimpresso_h HASHTAG #brasil_h HASHTAG 
+#brazil_h *COMPARTILHEM* flag_brazil_e green_heart_e yellow_heart_e 
+flag_brazil_e green_heart_e yellow_heart_e flag_brazil_e green_heart_e 
+yellow_heart_e flag_brazil_e url 
+
+Lemmas in this text that loaded on the factor:
+
+compartilhem

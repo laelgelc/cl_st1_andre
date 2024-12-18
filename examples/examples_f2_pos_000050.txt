@@ -1,0 +1,19 @@
+file = t001343
+date = 2021-08-26
+user = Micmicroonds1
+conversation = 1151007072118595584
+URL = https://twitter.com/Micmicroonds1/status/1430726300793245698
+
+word count = 24
+words loading = 3
+factor score = 1
+
+Você só não pode é **cometer** o crime absurdo e inafiançável de 
+**liberdade** de **expressão** em apoiar o governo Bolsonaro. HASHTAG 
+#dia7vaisergigante_h HASHTAG #stfrompeuademocracia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+cometer
+expressão (secondary)
+liberdade (secondary)

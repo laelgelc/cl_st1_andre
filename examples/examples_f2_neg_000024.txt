@@ -1,0 +1,18 @@
+file = t000922
+date = 2021-10-14
+user = Marceloprof88
+conversation = 1147888218098012161
+URL = https://twitter.com/Marceloprof88/status/1448800065007534083
+
+word count = 37
+words loading = 1
+factor score = -1
+
+HASHTAG #stforganizacaocriminosa_h O STF está implantando a ditadura judicial, 
+a liberdade de imprensa continua sendo atacada, sinistros impediram jornalista 
+Allan dos Santos de manter seus canais. . . ditadura da grossa. . . ahhhh se 
+tivéssemos umas forças armadas **unidas** . . url 
+
+Lemmas in this text that loaded on the factor:
+
+unir

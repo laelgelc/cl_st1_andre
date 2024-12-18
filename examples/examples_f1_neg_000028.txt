@@ -1,0 +1,16 @@
+file = t000153
+date = 2021-09-07
+user = Almirgrande
+conversation = 361347791
+URL = https://twitter.com/Almirgrande/status/1435379396446199812
+
+word count = 14
+words loading = 1
+factor score = -1
+
+Foi gigante, a maior manifestação que participei. HASHTAG #supremoeopovo_h 
+HASHTAG #liberdade_h. Av. **Paulista** SP flag_brazil_e flag_brazil_e url 
+
+Lemmas in this text that loaded on the factor:
+
+paulista

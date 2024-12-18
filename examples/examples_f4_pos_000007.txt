@@ -1,0 +1,19 @@
+file = t000097
+date = 2022-11-01
+user = Markynhos_Silva
+conversation = 330866864
+URL = https://twitter.com/Markynhos_Silva/status/1587348733196378113
+
+word count = 10
+words loading = 4
+factor score = 4
+
+O **poder** **emana** do **povo** ! HASHTAG #luladeseleito_h HASHTAG 
+#supremoeopovo_h HASHTAG #liberdade_h url 
+
+Lemmas in this text that loaded on the factor:
+
+emanar
+liberdade_h
+poder
+povo

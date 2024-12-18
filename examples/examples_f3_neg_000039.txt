@@ -1,0 +1,17 @@
+file = t000927
+date = 2021-09-07
+user = mauro_sodre
+conversation = 168654203
+URL = https://twitter.com/mauro_sodre/status/1435181156148912134
+
+word count = 15
+words loading = 1
+factor score = -1
+
+@STF_oficial Mandá -los **tomar** nos seus cús é crime constitucional ou 
+liberdade de expressão? HASHTAG #stfvergonhanacional_h HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+tomar

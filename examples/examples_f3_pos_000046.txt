@@ -1,0 +1,22 @@
+file = t000238
+date = 2021-09-07
+user = AntonellaVilaca
+conversation = 1435102768830763011
+URL = https://twitter.com/AntonellaVilaca/status/1435124770241122304
+
+word count = 33
+words loading = 4
+factor score = 2
+
+@veramagalhaes Brasília é do povo brasileiro. Se fossem esquerdistas 
+quebrando e colocando fogo em tudo podia né ? ! A **Direita** também quer 
+respeito e liberdade de expressão. Brasil, **justiça** e liberdade. HASHTAG 
+#dia07vaisergigantesco_h HASHTAG #supremoeopovo_h **flag_brazil_e** 
+**heart_suit_e** 
+
+Lemmas in this text that loaded on the factor:
+
+direita (secondary)
+flag_brazil_e
+heart_suit_e
+justiça (secondary)

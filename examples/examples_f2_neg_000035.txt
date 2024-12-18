@@ -1,0 +1,19 @@
+file = t001457
+date = 2021-08-21
+user = rogerio_nascim
+conversation = 869141344257802240
+URL = https://twitter.com/rogerio_nascim/status/1428903715801600000
+
+word count = 32
+words loading = 1
+factor score = -1
+
+@revistaoeste @rpsenador inicie o impeachment do Alexandre de Moraes 
+@alexandre. **Chega** da ditadura do STF, queremos liberdade de expressão, 
+deputados e jornalistas livres, um presidente que possa governar HASHTAG 
+#7desetembrovaisergrande_h HASHTAG #impeachmentdealexandredemoraes_h HASHTAG 
+#stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegar

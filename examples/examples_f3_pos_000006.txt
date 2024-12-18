@@ -1,0 +1,23 @@
+file = t001621
+date = 2022-11-06
+user = Gabuh1987
+conversation = 1547411730338172928
+URL = https://twitter.com/Gabuh1987/status/1589249966027190273
+
+word count = 35
+words loading = 4
+factor score = 4
+
+Estou fora do País sim, mas jamais negarei de onde vim, de onde nasci, jamais 
+deixarei de **lutar** pelos verdadeiros valores, liberdade, ordem e progresso! 
+**flag_brazil_e** **green_heart_e** **yellow_heart_e** HASHTAG #brasil_h 
+HASHTAG #bolsonaroreeleito_h HASHTAG #fé_h HASHTAG #stfvergonhamundial_h 
+HASHTAG #lulanaotemfichalimpa_h HASHTAG #liberdadedeexpressao_h HASHTAG 
+#censuranão_h HASHTAG #lulanacadeia_h url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+green_heart_e
+lutar
+yellow_heart_e

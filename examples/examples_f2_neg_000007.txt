@@ -1,0 +1,17 @@
+file = t000048
+date = 2022-11-14
+user = Attilio_2030
+conversation = 1569480212051795968
+URL = https://twitter.com/Attilio_2030/status/1592183255046193153
+
+word count = 25
+words loading = 1
+factor score = -1
+
+O pau vai torá . Está **chegando** a hora da Onça beber água. Passaram de 
+TODOS os limites de humilhação da nação brasileira. HASHTAG 
+#supremoéopovo_h HASHTAG #liberdadesetoma_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegar

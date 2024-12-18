@@ -1,0 +1,24 @@
+file = t000340
+date = 2020-06-23
+user = Deivin34061841
+conversation = 1268582395151876096
+URL = https://twitter.com/Deivin34061841/status/1275226450078191616
+
+word count = 25
+words loading = 8
+factor score = 8
+
+**Querem** **calar** agente **querem** proibir a **liberdade** de 
+**expressão** nas **redes** **sociais** mais **fiquem** **sabendo** mesmo que 
+proíbam não vamos se **calar** HASHTAG #supremoeopovo_h HASHTAG #pl2630nao_h 
+
+Lemmas in this text that loaded on the factor:
+
+calar
+expressão
+ficar
+liberdade
+querer
+rede
+saber
+social

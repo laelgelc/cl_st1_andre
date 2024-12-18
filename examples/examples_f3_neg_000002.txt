@@ -1,0 +1,22 @@
+file = t000879
+date = 2022-03-19
+user = eldapianista
+conversation = 60295046
+URL = https://twitter.com/eldapianista/status/1505063153587085313
+
+word count = 42
+words loading = 4
+factor score = -3
+
+Se apenas a UNIÃO pode **legislar** sobre telecomunicações, pq raios a b*sta 
+do HASHTAG #stforganizaçãocriminosa_h está **tomando** **decisões** q ferem 
+cláusulas pétreas da Constituição Federal ( liberdade de expressão ) e 
+pactos internacionais? **Censura** é crime, $ini$tro$ malditos! Fuzilamento é 
+pouco! url 
+
+Lemmas in this text that loaded on the factor:
+
+censura (secondary)
+decisão
+legislar
+tomar

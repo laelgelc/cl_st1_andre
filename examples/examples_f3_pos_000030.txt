@@ -1,0 +1,17 @@
+file = t001707
+date = 2022-04-08
+user = belle_grillo
+conversation = 1084484666365825025
+URL = https://twitter.com/belle_grillo/status/1512416843750854656
+
+word count = 5
+words loading = 2
+factor score = 2
+
+HASHTAG #cpidasongs_h HASHTAG #stfvergonhamundial_h HASHTAG #liberdade_h 
+**purple_heart_e** **flag_brazil_e** url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+purple_heart_e

@@ -1,0 +1,22 @@
+file = t000310
+date = 2021-08-19
+user = Silvani19683935
+conversation = 1295703488215883776
+URL = https://twitter.com/Silvani19683935/status/1428327487684104201
+
+word count = 43
+words loading = 4
+factor score = 3
+
+**Dia** 7 de **SETEMBRO** BRASILHA vai Tremer, o STF vai sentir a força do 
+**POVO** UNIDO **lutando** por LIBERDADE e cansado dos desmandos do SUPREMO e 
+do Congresso recheado de CORRUPTOS que não representa os anseios da sociedade 
+HASHTAG #supremoéopovo_h HASHTAG #liberdadedeopiniao_h HASHTAG 
+#stfinimigodopovobrasileiro_h url 
+
+Lemmas in this text that loaded on the factor:
+
+dia
+lutar (secondary)
+povo
+setembro

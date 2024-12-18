@@ -1,0 +1,26 @@
+file = t001826
+date = 2021-07-08
+user = Cleuterruis
+conversation = 283748743
+URL = https://twitter.com/Cleuterruis/status/1412939397889236996
+
+word count = 38
+words loading = 8
+factor score = 8
+
+@STF_oficial Vcs são uns vagabundos mesmo, perseguem **jornalistas** , 
+deputados e **querem** **defender** a **liberdade** de **expressão** ? ? ! ! 
+HASHTAG #stfvergonhamundial_h @DefesaGovBr notinha de repúdio não resolve, 
+enquanto um dos **togados** não for **preso** , não vão aprender. 
+@jairbolsonaro a corda já quebrou 
+
+Lemmas in this text that loaded on the factor:
+
+defender
+expressão
+jornalista
+liberdade
+prender
+querer
+stfvergonhamundial_h
+togado

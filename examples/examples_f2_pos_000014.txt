@@ -1,0 +1,16 @@
+file = t002002
+date = 2022-11-04
+user = tiago9670
+conversation = 1384411076
+URL = https://twitter.com/tiago9670/status/1588393061616189440
+
+word count = 16
+words loading = 1
+factor score = 1
+
+Temos um empate técnico qual **maior** criminoso do Brasil! HASHTAG #xandao_h 
+ou HASHTAG #mula_h HASHTAG #liberdade_h HASHTAG #brasil_h url 
+
+Lemmas in this text that loaded on the factor:
+
+grande

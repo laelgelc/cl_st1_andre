@@ -1,0 +1,28 @@
+file = t001178
+date = 2021-09-15
+user = CarlaBegizen
+conversation = 291224017
+URL = https://twitter.com/CarlaBegizen/status/1438111576075157517
+
+word count = 31
+words loading = 11
+factor score = 11
+
+@LRobertoBarroso Supremo é o povo. Vcs **querem** nos **calar** e **tirar** 
+nossos **direitos** . **Liberdade** de **expressão** e **voto** auditável já 
+. HASHTAG #stfvergonhanacional_h HASHTAG #stfrompeuademocracia_h Soltam 
+**bandidos** e prendem **cidadãos** … **vergonha** dessa **corte** corrupta. 
+
+Lemmas in this text that loaded on the factor:
+
+bandido
+calar
+cidadão
+corte
+direito
+expressão
+liberdade
+querer
+tirar
+vergonha
+voto

@@ -1,0 +1,16 @@
+file = t000565
+date = 2021-01-29
+user = AnaSilviaBotti1
+conversation = 1138530834355511296
+URL = https://twitter.com/AnaSilviaBotti1/status/1354995840176287745
+
+word count = 7
+words loading = 1
+factor score = -1
+
+@FabioTalhari HASHTAG #liberdadeparaoswaldoeustaquio_h preso politico do 
+@STF_oficial HASHTAG #alexandredemoraesnacadeia_h 
+
+Lemmas in this text that loaded on the factor:
+
+liberdadeparaoswaldoeustaquio_h

@@ -1,0 +1,26 @@
+file = t000592
+date = 2021-01-26
+user = BURLAMAQUIP
+conversation = 93287976
+URL = https://twitter.com/BURLAMAQUIP/status/1354132655252660225
+
+word count = 48
+words loading = 8
+factor score = 8
+
+**Defenderei** essa TAG até a sua prisão. Será por uma **boa** causa. O 
+senhor é apenas um indicado de ex **presidente** . Não lhe cabe o **direito** 
+de usurpar a **liberdade** de **expressão** de quem que que seja. Julga e 
+condena seus " algozes " . O sr. é **criminoso** . **Prenda** -me! HASHTAG 
+#alexandredemoraesnacadeia_h 
+
+Lemmas in this text that loaded on the factor:
+
+bom
+criminoso
+defender
+direito
+expressão
+liberdade
+prender
+presidente

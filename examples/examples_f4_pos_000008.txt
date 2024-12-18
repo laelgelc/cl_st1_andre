@@ -1,0 +1,25 @@
+file = t000032
+date = 2022-11-15
+user = GarzedimPetru
+conversation = 1196047427901505537
+URL = https://twitter.com/GarzedimPetru/status/1592589042637762560
+
+word count = 24
+words loading = 8
+factor score = 4
+
+BH, 15 / 11 / 2022 , às 15h, em **frente** ao Comando do Exército na Av. 
+**Raja** Gabaglia, 450 **flag_brazil_e** **flag_brazil_e** **flag_brazil_e** 
+*HASHTAG #supremoéopovo_h* *HASHTAG #deus_h* *HASHTAG #patria_h* *HASHTAG 
+#família_h* *HASHTAG #liberdade_h* url 
+
+Lemmas in this text that loaded on the factor:
+
+deus_h (secondary)
+flag_brazil_e (secondary)
+frente
+hashtag
+liberdade_h
+patria_h (secondary)
+rajar (secondary)
+supremoéopovo_h

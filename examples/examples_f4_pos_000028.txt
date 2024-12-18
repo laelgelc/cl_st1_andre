@@ -1,0 +1,19 @@
+file = t001840
+date = 2021-04-13
+user = LockeOpressor
+conversation = 1379579796326342656
+URL = https://twitter.com/LockeOpressor/status/1381973577927421957
+
+word count = 35
+words loading = 2
+factor score = 2
+
+STF é a cúpula dos desmandos no país, onde demonstram a cada **dia** quem 
+governa o país. Só evidência que temos um fantoche na presidência amarrado 
+por togas " SUPREMAS " HASHTAG #stfvergonhamundial_h HASHTAG #democracia_h 
+HASHTAG #presidentedarepublica_h HASHTAG #liberdade_h url 
+
+Lemmas in this text that loaded on the factor:
+
+dia
+liberdade_h

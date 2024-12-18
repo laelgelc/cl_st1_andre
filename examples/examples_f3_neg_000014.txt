@@ -1,0 +1,17 @@
+file = t000076
+date = 2022-11-10
+user = Roberto89776314
+conversation = 1415706465260740615
+URL = https://twitter.com/Roberto89776314/status/1590693242433318912
+
+word count = 19
+words loading = 1
+factor score = -1
+
+@nikolasincero SÓ O POVO, PODE RESOLVER, OBRIGANDO QUEM TEM QUE **TOMAR** UMA 
+ATITUDE, SE MOVER. . . HASHTAG #supremoéopovo_h HASHTAG 
+#liberdadenaoseganhasetoma_h HASHTAG #resistenciacivilja_h 
+
+Lemmas in this text that loaded on the factor:
+
+tomar

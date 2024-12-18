@@ -1,0 +1,27 @@
+file = t001451
+date = 2021-08-21
+user = leoaraujorec
+conversation = 983541694783197185
+URL = https://twitter.com/leoaraujorec/status/1428929378210172936
+
+word count = 44
+words loading = 9
+factor score = 9
+
+Não **existe** mais " Estado de Democrático Direito ' ' , no Brasil, quando a 
+**liberdade** de **expressão** é **censurada** , a **liberdade** de **ir** e 
+**vir** é limitada, e a **liberdade** de **imprensa** é **calada** , isso é 
+um sinal que estamos caminhando para uma **ditadura** judiciária. HASHTAG 
+#stfrompeuademocracia_h 
+
+Lemmas in this text that loaded on the factor:
+
+calar
+censurar
+ditadura
+existir
+expressão
+imprensa
+ir
+liberdade
+vir

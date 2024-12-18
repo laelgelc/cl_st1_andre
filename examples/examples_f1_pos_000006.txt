@@ -1,0 +1,26 @@
+file = t001566
+date = 2021-05-04
+user = kmorales25
+conversation = 208117571
+URL = https://twitter.com/kmorales25/status/1389601096134430731
+
+word count = 32
+words loading = 9
+factor score = 9
+
+@LRobertoBarroso Você não **tem** **vergonha** na **cara** , **Jornalista** e 
+deputado que xingam ministros do **supremo** são **presos** e perseguidos, 
+agora quando pedem a morte do **presidente** é **liberdade** de **expressão** 
+. HASHTAG #stfvergonhadobrasil_h 
+
+Lemmas in this text that loaded on the factor:
+
+cara
+expressão
+jornalista
+liberdade
+prender
+presidente
+supremo
+ter
+vergonha

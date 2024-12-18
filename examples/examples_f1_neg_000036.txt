@@ -1,0 +1,21 @@
+file = t000321
+date = 2021-04-25
+user = Pivaconservador
+conversation = 1167132978335670272
+URL = https://twitter.com/Pivaconservador/status/1386139948244418561
+
+word count = 25
+words loading = 1
+factor score = -1
+
+**CARREATA** 1° DE MAIO 2021 HASHTAG #pivapatriota_h HASHTAG 
+#pivaconservador_h HASHTAG #direita_h HASHTAG #esquerda_h HASHTAG 
+#conservador_h HASHTAG #fechadocombolsonaro_h HASHTAG #jairbolsonaro_h HASHTAG 
+#bolsonaro_h HASHTAG #bolsonaro2022_h HASHTAG #br_h HASHTAG #sp_h HASHTAG 
+#sãopaulo_h HASHTAG #brasil_h HASHTAG #catanduva_h HASHTAG 
+#deuspatriaefamilia_h HASHTAG #supremoéopovo_h HASHTAG #lockdown_h HASHTAG 
+#votoimpresso_h HASHTAG #liberdade_h url 
+
+Lemmas in this text that loaded on the factor:
+
+carreata

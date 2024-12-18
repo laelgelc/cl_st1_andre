@@ -1,0 +1,20 @@
+file = t000007
+date = 2022-11-22
+user = catiasakae
+conversation = 82615753
+URL = https://twitter.com/catiasakae/status/1595200428056223745
+
+word count = 31
+words loading = 2
+factor score = -1
+
+" Pior que a corrupção generalizada, será o dia em que eles roubarem também 
+nossa liberdade, propriedade privada e esperança! " **police_car_light_e** PR 
+Jair Bolsonaro HASHTAG #deuspatriafamilialiberdade_h HASHTAG #supremoeopovo_h 
+HASHTAG #ditaduradetoga_h HASHTAG #brazilwasstolen_h HASHTAG #vemproquartel_h 
+HASHTAG #liberdadenaoseganhasetoma_h HASHTAG #sosffaa_h url 
+
+Lemmas in this text that loaded on the factor:
+
+police_car_light_e
+sosffaa_h

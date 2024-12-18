@@ -1,0 +1,20 @@
+file = t001657
+date = 2022-09-07
+user = LucianoCypriano
+conversation = 52939162
+URL = https://twitter.com/LucianoCypriano/status/1567643250642542592
+
+word count = 33
+words loading = 3
+factor score = 3
+
+@alexandre E é por isso que estamos reforçando o grito de liberdade, mesmo 
+com o senhor desrespeitando a CF e suprimindo a liberdade de expressão. Todo 
+**poder** **emana** do **povo** ! HASHTAG #stfvergonhamundial_h HASHTAG 
+#bolsonaro_h 
+
+Lemmas in this text that loaded on the factor:
+
+emanar
+poder
+povo

@@ -1,0 +1,18 @@
+file = t000314
+date = 2021-08-14
+user = James_brasil
+conversation = 34037140
+URL = https://twitter.com/James_brasil/status/1426475217640120323
+
+word count = 36
+words loading = 1
+factor score = -1
+
+Hoje prendem apoiadores do conservadorismo, depois do precedente, os apoiadores 
+de qualquer posição politica poderão ser presos arbitrariamente. . . E 
+quando o amanhã **chegar** , pode ser você o preso, apenas por pensar 
+diferente deles. HASHTAG #supremoéopovo_h HASHTAG #liberdadesetoma_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegar

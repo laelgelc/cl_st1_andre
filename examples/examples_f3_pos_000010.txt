@@ -1,0 +1,22 @@
+file = t001622
+date = 2022-11-06
+user = Gabuh1987
+conversation = 1547411730338172928
+URL = https://twitter.com/Gabuh1987/status/1589235861404909570
+
+word count = 17
+words loading = 3
+factor score = 3
+
+HASHTAG #japan_h HASHTAG #brasileirosnoexterior_h HASHTAG 
+#brasileirosnojapão_h HASHTAG #bolsonaroreeleito_h HASHTAG 
+#lulavergonhanacional_h HASHTAG #lulanaotemfichalimpa_h HASHTAG 
+#stfvergonhamundial_h HASHTAG #censuranao_h HASHTAG #liberdadedeexpressao_h 
+**green_heart_e** **yellow_heart_e** **flag_brazil_e** 06 / 11 / 2022 HASHTAG 
+#名古屋_h HASHTAG #nhk_h HASHTAG #ブラジル人_h url 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+green_heart_e
+yellow_heart_e

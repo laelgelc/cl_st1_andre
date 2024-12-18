@@ -1,0 +1,24 @@
+file = t001998
+date = 2022-11-07
+user = nanegoncalves
+conversation = 57866773
+URL = https://twitter.com/nanegoncalves/status/1589433660385955841
+
+word count = 37
+words loading = 4
+factor score = 2
+
+Xandão o melhor. clapping_hands_medium_skin_tone_e 
+clapping_hands_medium_skin_tone_e clapping_hands_medium_skin_tone_e As pessoas 
+confundem a **liberdade** de **expressão** com: PODER MENTIR OU XINGAR ALGUÉM 
+A VONTADE. Whatsapp não vale como **livro** **lido** galera. **Livro** não é 
+droga! HASHTAG #xandão_h HASHTAG #alexandredemoraes_h @alexandre HASHTAG 
+#forabolsonaroesuaquadrilha_h HASHTAG #ladygaga_h HASHTAG #vailerbolsominion_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+ler
+liberdade (secondary)
+livro

@@ -1,0 +1,20 @@
+file = t000110
+date = 2022-05-02
+user = GilvanDaFederal
+conversation = 1273299541786349569
+URL = https://twitter.com/GilvanDaFederal/status/1521129908046553092
+
+word count = 36
+words loading = 3
+factor score = 3
+
+Ontem foi mais um **dia** em que o **povo** brasileiro e capixaba saiu às ruas 
+em defesa da liberdade e contra a tirania, Supremo é o **povo** ! Deus, 
+**Pátria** , Família e Liberdade! HASHTAG #liberdade_h HASHTAG 
+#supremoeopovo_h url 
+
+Lemmas in this text that loaded on the factor:
+
+dia
+povo
+pátria

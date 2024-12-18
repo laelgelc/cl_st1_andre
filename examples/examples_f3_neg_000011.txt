@@ -1,0 +1,22 @@
+file = t000933
+date = 2021-09-04
+user = eldapianista
+conversation = 60295046
+URL = https://twitter.com/eldapianista/status/1433996258872643585
+
+word count = 46
+words loading = 4
+factor score = -2
+
+Com base em que lei as **decisões** do HASHTAG #stforganizaçãocriminosa_h 
+são **tomadas** ? Onde consta na legislação brasileira, que opinião, 
+manifestação, liberdade de expressão são crimes? Onde consta que é 
+permitida a **censura** ? Prefiro viver sob regime militar do que sob a 
+**ditadura** do judiciário url url 
+
+Lemmas in this text that loaded on the factor:
+
+censura (secondary)
+decisão
+ditadura (secondary)
+tomar

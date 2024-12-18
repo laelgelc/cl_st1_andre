@@ -1,0 +1,20 @@
+file = t001408
+date = 2021-08-21
+user = RicardoSette
+conversation = 49758793
+URL = https://twitter.com/RicardoSette/status/1429218459829870597
+
+word count = 37
+words loading = 2
+factor score = 2
+
+Estes não vão as ruas dia 07 **lutar** pela liberdade, pois acham que a 
+**luta** é por Bolsonaro Assim esquecem que a Liberdade deles e de seus filhos 
+estão em risco downcast_face_with_sweat_e HASHTAG #7desetembrovaisergrande_h 
+HASHTAG #aceitapacheco_h HASHTAG #dia07vaisergigante_h HASHTAG 
+#stfrompeuademocracia_h HASHTAG #liberdadedeexpressao_h 
+
+Lemmas in this text that loaded on the factor:
+
+luta
+lutar

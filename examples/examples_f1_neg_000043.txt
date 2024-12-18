@@ -1,0 +1,16 @@
+file = t000575
+date = 2021-01-27
+user = DeMachado8
+conversation = 1222978906325757952
+URL = https://twitter.com/DeMachado8/status/1354305224689782785
+
+word count = 4
+words loading = 1
+factor score = -1
+
+HASHTAG #alexandredemoraesnacadeia_h HASHTAG #liberdadeparaoswaldoeustaquio_h 
+url 
+
+Lemmas in this text that loaded on the factor:
+
+liberdadeparaoswaldoeustaquio_h

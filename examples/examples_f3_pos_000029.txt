@@ -1,0 +1,19 @@
+file = t001711
+date = 2022-03-31
+user = belle_grillo
+conversation = 1084484666365825025
+URL = https://twitter.com/belle_grillo/status/1509496702801223681
+
+word count = 8
+words loading = 2
+factor score = 2
+
+@damadanoite14 @Jambock67 Viaja e Vota **purple_heart_e** **flag_brazil_e** 
+pouting_face_e gear_e bomb_e mantelpiece_clock_e speak-no-evil_monkey_e 
+upside-down_face_e chains_e coffin_e HASHTAG #liberdadeparaopovobrasileiro_h 
+HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e
+purple_heart_e

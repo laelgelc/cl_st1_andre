@@ -1,0 +1,21 @@
+file = t001950
+date = 2022-10-19
+user = Saulo_dias
+conversation = 64416075
+URL = https://twitter.com/Saulo_dias/status/1582826636755410944
+
+word count = 54
+words loading = 3
+factor score = 1
+
+@folha @sitef5 Ontem foi a Bárbara e o Alan dos Santos Hj quem está pagando a 
+conta é a Jovem Pan, a Revista Oeste e o Brasil Paralelo. Amanhã pode ser a 
+folha, o Globo a Band. . . por aí vai. O **respeito** à **liberdade** de 
+**expressão** / opinião está sendo tolhido. HASHTAG #tsevergonhanacional_h 
+HASHTAG #tsedacensura_h url 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+liberdade (secondary)
+respeito

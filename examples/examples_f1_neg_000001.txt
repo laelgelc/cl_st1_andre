@@ -1,0 +1,23 @@
+file = t000031
+date = 2022-11-15
+user = FRANCISCONALDO6
+conversation = 1298631431611129856
+URL = https://twitter.com/FRANCISCONALDO6/status/1592589393772285953
+
+word count = 26
+words loading = 6
+factor score = -5
+
+BH, 15 / 11 / 2022 , às 15h, em **frente** ao Comando do Exército na Av. 
+**Raja** Gabaglia, 450 flag_brazil_e flag_brazil_e flag_brazil_e *HASHTAG 
+#supremoéopovo_h* *HASHTAG #deus_h*HASHTAG #sosffaa_h *HASHTAG #patria_h* 
+*HASHTAG #família_h* *HASHTAG #liberdade_h*HASHTAG #brazil_h url 
+
+Lemmas in this text that loaded on the factor:
+
+brazil_h
+deus_h
+frente (secondary)
+patria_h
+rajar
+sosffaa_h

@@ -1,0 +1,25 @@
+file = t001405
+date = 2021-08-22
+user = rosavas
+conversation = 87687344
+URL = https://twitter.com/rosavas/status/1429238043765088258
+
+word count = 43
+words loading = 5
+factor score = 4
+
+@opropriofaka @leiladovolei Aos que são contra ou não estão nem aí para 
+**Constituição** , digam adeus a vida pública. HASHTAG 
+#stfrompeuademocracia_h backhand_index_pointing_right_e HASHTAG 
+#impeachmentalexandredemoraes_h backhand_index_pointing_right_e HASHTAG 
+#dia7vaisergigante_h Todo **poder** **emana** do **povo** . Se for ao 
+contrário aquele outro artigo que vcs tem medo **pode** ser usado. HASHTAG 
+#liberdade_h url 
+
+Lemmas in this text that loaded on the factor:
+
+constituição (secondary)
+emanar
+liberdade_h
+poder
+povo

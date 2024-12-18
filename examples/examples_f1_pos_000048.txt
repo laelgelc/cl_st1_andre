@@ -1,0 +1,25 @@
+file = t002051
+date = 2020-07-24
+user = OzzyeellSouzza
+conversation = 863099237491515392
+URL = https://twitter.com/OzzyeellSouzza/status/1286716277415915521
+
+word count = 40
+words loading = 7
+factor score = 7
+
+Esse cabeça de piroca. esta se achando o dono da razão. Quem **irá** parar 
+esse autoritário nesse país, cadê a **liberdade** de **expressão** ? 
+**Iremos** aceitar calados esse **absurdo** em derrubar perfis de **cidadãos** 
+em **redes** **sociais** ? HASHTAG #stfvergonhanacional_h HASHTAG 
+#stforganizacaocriminosa_h HASHTAG #xandaodopcc_h 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo
+cidadão
+expressão
+ir
+liberdade
+rede
+social

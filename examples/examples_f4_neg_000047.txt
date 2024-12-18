@@ -1,0 +1,19 @@
+file = t000757
+date = 2022-10-19
+user = BrunoBrancalho3
+conversation = 1253795895713374211
+URL = https://twitter.com/BrunoBrancalho3/status/1582758744735518720
+
+word count = 31
+words loading = 1
+factor score = -1
+
+HASHTAG #censuradopt_h! ! ! Ditadura da esquerda! ! ! A mando do PT, o capacho 
+Alexandre de Moraes cúmplice da quadrilha **petista** , ataca novamente contra 
+a nossa liberdade de expressão! HASHTAG #stforganizacaocriminosa_h HASHTAG 
+#tseeptralhascensuradores_h HASHTAG #censurapréviadopt_h HASHTAG 
+#ptnuncamais_h url 
+
+Lemmas in this text that loaded on the factor:
+
+petista

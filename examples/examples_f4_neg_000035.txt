@@ -1,0 +1,17 @@
+file = t000252
+date = 2021-09-07
+user = EdisonFernandoo
+conversation = 1205534888373432321
+URL = https://twitter.com/EdisonFernandoo/status/1435076985613598720
+
+word count = 21
+words loading = 1
+factor score = -1
+
+HASHTAG #7desetembrovaisergigante_h já começou e, independente da sua 
+**posição** , é muito bom ver que ainda se pode opinar! HASHTAG 
+#liberdadedeexpressao_h HASHTAG #liberdadedeopiniao_h HASHTAG #supremoéopovo_h 
+
+Lemmas in this text that loaded on the factor:
+
+posição

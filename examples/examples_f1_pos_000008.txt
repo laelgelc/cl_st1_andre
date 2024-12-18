@@ -1,0 +1,27 @@
+file = t001534
+date = 2020-05-30
+user = bbqmastersc
+conversation = 1259812946898796544
+URL = https://twitter.com/bbqmastersc/status/1266680856581738496
+
+word count = 46
+words loading = 9
+factor score = 9
+
+Estamos na **ditadura** do STF, onde não se pode **ter** o **direito** da 
+**liberdade** de **expressão** **tendo** suas casas invadidas pela polícia 
+somente por se expressar contra o **ditador** que não foi eleito pela 
+**democracia** pelo **voto** do povo, onde o **presidente** eleito 
+democraticamente! HASHTAG #stfvergonha_h 
+
+Lemmas in this text that loaded on the factor:
+
+democracia
+direito
+ditador
+ditadura
+expressão
+liberdade
+presidente
+ter
+voto

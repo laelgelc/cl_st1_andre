@@ -1,0 +1,18 @@
+file = t000647
+date = 2021-09-07
+user = LuizAcontece
+conversation = 156484620
+URL = https://twitter.com/LuizAcontece/status/1435286248277610499
+
+word count = 13
+words loading = 1
+factor score = -1
+
+HASHTAG #liberdade_h HASHTAG #brasil_h HASHTAG #povo_h HASHTAG #patria_h 
+HASHTAG #manifestacoes_h HASHTAG #governofederal_h HASHTAG #bolsonaro_h HASHTAG 
+#governo_h HASHTAG #stflixo_h HASHTAG #foraalexandredemoraes_h HASHTAG 
+#globolixo_h url 
+
+Lemmas in this text that loaded on the factor:
+
+globolixo_h

@@ -1,0 +1,25 @@
+file = t001678
+date = 2022-06-06
+user = valcperes29
+conversation = 955220924869029889
+URL = https://twitter.com/valcperes29/status/1533888691592126464
+
+word count = 27
+words loading = 8
+factor score = 8
+
+@STF_oficial @TurmadaMonica @magistradosbr @Anamatra @AJUFE_oficial Não 
+**queremos** **saber** de turma da mônica. **Queremos** **democracia** ! 
+**Voto** auditável! **Direito** de **livre** **expressão** sem prisão! 
+**DITADORES** ! Estamos fartos de vcs! HASHTAG #stfvergonhamundial_h 
+
+Lemmas in this text that loaded on the factor:
+
+democracia
+direito
+ditador
+expressão
+livre
+querer
+saber
+voto

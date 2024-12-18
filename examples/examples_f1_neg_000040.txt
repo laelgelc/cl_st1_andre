@@ -1,0 +1,17 @@
+file = t000457
+date = 2022-11-11
+user = klitinha
+conversation = 94798267
+URL = https://twitter.com/klitinha/status/1591143731859947520
+
+word count = 9
+words loading = 1
+factor score = -1
+
+Urgente! ! ! ! ! ! HASHTAG #lulanaopodeserdiplomado_h HASHTAG #foralulaladrao_h 
+HASHTAG #alexandredemoraesnacadeia_h HASHTAG #povonasruas_h HASHTAG 
+#liberdade_h HASHTAG #sosforcasarmadas_h url 
+
+Lemmas in this text that loaded on the factor:
+
+sosforcasarmadas_h

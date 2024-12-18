@@ -1,0 +1,17 @@
+file = t000371
+date = 2022-11-16
+user = Marlonlucasz
+conversation = 1576733552036683777
+URL = https://twitter.com/Marlonlucasz/status/1592932011970154496
+
+word count = 9
+words loading = 1
+factor score = -1
+
+Manifestação HASHTAG #liberdadedeexpressao_h HASHTAG #brasilwassloten_h 
+HASHTAG #lulaladrao_h HASHTAG #stfnaomerepresenta_h HASHTAG 
+#alexandredemoraesditador_h HASHTAG #sosffaa_h url 
+
+Lemmas in this text that loaded on the factor:
+
+sosffaa_h

@@ -1,0 +1,20 @@
+file = t001326
+date = 2021-08-30
+user = brunomvago
+conversation = 861400822822957056
+URL = https://twitter.com/brunomvago/status/1432148920130490373
+
+word count = 15
+words loading = 2
+factor score = 2
+
+7 de **setembro** será **gigante** . . . . HASHTAG #7desetembroeuvou_h HASHTAG 
+#pelobrasil_h HASHTAG #7desetembrovaisergrande_h HASHTAG #brasilacimadetudo_h 
+HASHTAG #deusacimadetodos_h HASHTAG #stfrompeuademocracia_h HASHTAG 
+#liberdadedeexpressão_h HASHTAG #cristao_h HASHTAG #evangelicos_h HASHTAG 
+#stfvergonhanacional_h url 
+
+Lemmas in this text that loaded on the factor:
+
+gigante
+setembro

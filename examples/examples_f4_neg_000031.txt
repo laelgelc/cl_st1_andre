@@ -1,0 +1,22 @@
+file = t002055
+date = 2020-06-26
+user = ValladaresAnna
+conversation = 349867213
+URL = https://twitter.com/ValladaresAnna/status/1276589620348715008
+
+word count = 45
+words loading = 4
+factor score = -2
+
+@ArleteKN @jairbolsonaro @BolsonaroSP @CarlosBolsonaro Não **chamem** o Ale de 
+HASHTAG #xandãodopcc_h que vc pode **terminar** atrás das grades Quando 
+resolvi cursar direito, não **imaginava** que um dia fôssemos ficar sem um 
+órgão **judicial** que defendesse a constituição e a nossa liberdade de 
+expressão. Que decepção! 
+
+Lemmas in this text that loaded on the factor:
+
+chamar (secondary)
+imaginar
+judicial
+terminar

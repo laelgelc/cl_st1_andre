@@ -1,0 +1,25 @@
+file = t001064
+date = 2022-10-30
+user = clarediportela
+conversation = 227483460
+URL = https://twitter.com/clarediportela/status/1586764008857767946
+
+word count = 28
+words loading = 8
+factor score = 8
+
+@gilmarmendes **Falou** … aqueles que deveriam **defender** a **democracia** 
+estão Cerceando a **liberdade** de **expressão** do povo. **Faça** -me o 
+**favor** não **fale** daquilo que vc não **vive** HASHTAG #demagogianao_h 
+HASHTAG #stfrompeuademocracia_h HASHTAG #tserompeuademocradia_h 
+
+Lemmas in this text that loaded on the factor:
+
+defender
+democracia
+expressão
+falar
+favor
+fazer
+liberdade
+viver

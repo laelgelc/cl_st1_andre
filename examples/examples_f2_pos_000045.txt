@@ -1,0 +1,21 @@
+file = t001413
+date = 2021-08-21
+user = rogerio_nascim
+conversation = 869141344257802240
+URL = https://twitter.com/rogerio_nascim/status/1429146242785939456
+
+word count = 38
+words loading = 3
+factor score = 1
+
+@dimacgarcia @alexandre @LRobertoBarroso @STF_oficial O STF é o **grande** 
+ditador, impede a **liberdade** de **expressão** dos honestos e solta os 
+corruptos. O povo vai dar cada vez mais apoio ao @jairbolsonaro e as Forças 
+Armadas @DefesaGovBr HASHTAG #stfrompeuademocracia_h HASHTAG 
+#impeachmentalexandredemoraes_h 
+
+Lemmas in this text that loaded on the factor:
+
+expressão (secondary)
+grande
+liberdade (secondary)

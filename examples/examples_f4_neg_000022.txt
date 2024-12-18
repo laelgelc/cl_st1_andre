@@ -1,0 +1,20 @@
+file = t001158
+date = 2022-03-30
+user = SandraVazBraga
+conversation = 555496343
+URL = https://twitter.com/SandraVazBraga/status/1509271563706769413
+
+word count = 41
+words loading = 2
+factor score = -2
+
+AOS QUE ESTÃO DIZENDO: " DANIEL SILVEIRA NÃO É PROBLEMA MEU " . PENSEM! SE 
+PODEM CALAR UM **PARLAMENTAR** ELEITO POR VOCÊ PARA SER A SUA VOZ, **IMAGINE** 
+VOCÊ QUE É APENAS UM PAGADOR DE IMPOSTOS, O QUE NÃO FARÃO? HASHTAG 
+#euapoiodanielsilveira_h HASHTAG #stfrompeuademocracia_h HASHTAG 
+#liberdadedeopiniao_h 
+
+Lemmas in this text that loaded on the factor:
+
+imaginar
+parlamentar
